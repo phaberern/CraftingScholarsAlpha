@@ -1,0 +1,66 @@
+#crafting-scholars-logo {
+    width: 100px;
+    height: auto;
+}
+
+#math-reference-chart {
+    width: 600px;
+    height: auto;
+}
+
+.math-question-img {
+    width: 300px;
+    height: auto;
+}
+
+.section-intro li {
+    text-align: left;
+}
+
+.section-questions li {
+    margin-bottom: 10px;
+}
+
+#start-button {
+    display: inline;
+}
+
+.question-marker {
+    background-color: gray;
+    color: white;
+    margin: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#timer {
+    position: fixed;
+    color: #21B6B3;
+    bottom: 0;
+    right: 0;
+    font-size: 300%;
+    opacity: .2;
+}
+
+.mark-answer-wrong {
+    text-decoration: line-through;
+}
+.mark-wrong{
+    opacity: .4;
+}
+.mark-wrong:hover {
+    opacity: 1;
+    color: red;
+    cursor: pointer;
+}
+.line-reference{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.line-reference:hover{
+    color: green;
+    cursor: pointer;
+}
+body{
+    font-family: 'Fenix', serif;
+}
