@@ -18,7 +18,7 @@ var app = express();
 
 //===============PASSPORT===============
 
-//This section will contain our work with Passport
+
 
 //===============EXPRESS================
 // Configure Express
@@ -51,7 +51,7 @@ app.use(function(req, res, next) {
 
 // Configure express to use handlebars templates
 var hbs = exphbs.create({
-    defaultLayout: 'main', //we will be creating this layout shortly
+    defaultLayout: 'main',
 });
 app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
@@ -92,6 +92,6 @@ app.get('/logout', function(req, res){
 });
 
 //===============PORT=================
-var port = process.env.PORT || 8080; //select your port or let it pull from your .env file
+var port = process.env.PORT || 8080;
 app.listen(port);
 console.log("listening on " + port + "!");
