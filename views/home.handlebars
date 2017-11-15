@@ -1,17 +1,7 @@
 {{#if user}}
-  {{!-- <div class="jumbotron">
-    <h1>MongoDB User Authentication</h1>
-    <p>Below is your profile information!</p>
+  <div id="logout">
+    <a href="/logout">Logout</a>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">Profile Information</h3>
-    </div>
-    <div class="panel-body">
-      <p>Username: {{user.username}}</p>
-      <p>Avatar: <img src="{{user.avatar}}"/></p>
-    </div>
-  </div> --}}
   <div class="text-center">
     <label for="sat-selection">Select a section</label>
       <select id="sat-section-selection">
@@ -32,19 +22,19 @@
     </div>
 
     <form id="local-sign-in" class="collapse" action="/login" method="post">
-      <label>Username:</label>
-      <input type="text" name="username"/>
+      <label>Email:</label>
+      <input type="text" name="email"/>
       <label>Password:</label>
       <input type="password" name="password"/>
-      <input type="submit" class="btn btn-primary btn-sm" value="Log In"/>
+      <input type="submit" class="btn btn-primary btn-sm"/>
     </form>
 
-    <form id="local-reg" class="collapse" action="/local-reg" method="post">
+    <form id="local-reg" class="collapse" action="/signup" method="post">
       <label>New Username:</label>
-      <input type="text" name="username"/>
+      <input type="text" name="email"/>
       <label>New Password:</label>
       <input type="password" name="password"/>
-      <input type="submit" class="btn btn-primary btn-sm" value="Register"/>
+      <input type="submit" class="btn btn-primary btn-sm"/>
     </form>
   </div>
 
