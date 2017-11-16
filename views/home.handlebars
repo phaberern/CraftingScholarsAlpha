@@ -5,10 +5,10 @@
   <div class="text-center">
     <label for="sat-selection">Select a section</label>
       <select id="sat-section-selection">
-        <option value="mathCalcTemplate">Math with Calc</option>
-        <option value="mathNoCalcTemplate">Math without Calc</option>
-        <option value="readingTemplate">Reading</option>
-        <option value="writingTemplate">Writing</option>
+        <option value="mathCalc">Math with Calc</option>
+        <option value="mathNoCalc">Math without Calc</option>
+        <option value="reading">Reading</option>
+        <option value="writing">Writing</option>
       </select>
     <button id="start-button">Start</button>
   </div>
@@ -20,6 +20,12 @@
       <a data-toggle="collapse" href="#local-sign-in" class="btn btn-default btn-md" role="button">Sign In</a>
       <a data-toggle="collapse" href="#local-reg" class="btn btn-default btn-md" role="button">Register</a>
     </div>
+    {{!-- <% if (message.length > 0) { %>
+        <div class="alert alert-danger"><%= message %></div>
+    <% } %> --}}
+    {{#if message}}
+      <div class="alert alert-danger">{{message}}</div>
+    {{/if}}
 
     <form id="local-sign-in" class="collapse" action="/login" method="post">
       <label>Email:</label>
