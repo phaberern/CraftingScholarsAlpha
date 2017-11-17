@@ -1,10 +1,15 @@
 {
     "name": "reading",
     "directions": [
-    	"",
+    	"This is a test for directions",
+        "This is a test for directions",
+        "This is a test for directions"
     ],
     "content": [
-    	"",
+    	"orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur.",
+        "orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur.",
+        "orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur.",
+        "orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur."
     ],
     "questions": [
     {

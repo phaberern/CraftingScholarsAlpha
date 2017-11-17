@@ -1,8 +1,7 @@
 $('document').ready(function() {
 
     //on click, start exam
-    $('#start-button').on('click', function(event) {
-        event.preventDefault();
+    $('#start-button').on('click', function() {
         $('#sat-selection-section').hide();
         console.log('start button fired');
         var selection = $('#section-selection').val();
@@ -42,11 +41,23 @@ $('document').ready(function() {
         $.getJSON(('./data/' + quizName + '.json'), function(data) {
             console.log('getJSON fired');
             console.log(data);
+            //load the directions
+            for(var i = 0; i < data.directions.length; i++){
+                console.log(data.directions[i]);
+                $('#directions').append('<p>'+data.directions[i]+'</p>');
+            };
+            //load the content
+            for(var i = 0; i < data.content.length; i++){
+                console.log(data.content[i]);
+                $('#section-content').append('<p>'+data.content[i]+'</p>');
+            };
+            //load the questions
+            for(var i = 0; i < data.questions.length; i++){
+                console.log(data.questions[i]);
+                $('#section-questions').append('<div>'+data.questions[i].question+'</div>');
+            };
         });
 
     };
-
-
-
 
 });
