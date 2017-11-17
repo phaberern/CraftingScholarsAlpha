@@ -1,13 +1,15 @@
-$('document').ready(function(){
+$('document').ready(function() {
 
-	//on click, start exam
-	$("#start-button").on("click",function(){
-		console.log('start button fired');
-		var selection = $("#sat-section-selection").val();
-		loadQuiz(selection);
-		});
+    //on click, start exam
+    $('#start-button').on('click', function(event) {
+        event.preventDefault();
+        $('#sat-selection-section').hide();
+        console.log('start button fired');
+        var selection = $('#section-selection').val();
+        loadQuiz(selection);
+    });
 
-	//***************************** function delcarations *************************
+    //***************************** function delcarations *************************
 
     //functions for the timer______________________________________________________
     function countdown() {
@@ -16,9 +18,9 @@ $('document').ready(function(){
             if (counter < 0) {
                 runReport();
                 clearInterval(timerId);
-                alert("Time is up!");
+                alert('Time is up!');
             }
-            $("#timer").text(convertSeconds(counter));
+            $('#timer').text(convertSeconds(counter));
         }, 1000);
     };
 
@@ -26,7 +28,7 @@ $('document').ready(function(){
         var minutes = Math.floor(inputSeconds / 60);
         var seconds = inputSeconds - (minutes * 60);
         //return calculation
-        return (prettifyRemainingTime(minutes, "0", 2) + ":" + prettifyRemainingTime(seconds, "0", 2));
+        return (prettifyRemainingTime(minutes, '0', 2) + ':' + prettifyRemainingTime(seconds, '0', 2));
     };
 
     function prettifyRemainingTime(string, pad, length) {
@@ -34,21 +36,15 @@ $('document').ready(function(){
     };
 
     //functions for quiz load_______________________________________________________
-    function loadQuiz(quizName){
-    	console.log('loadQuiz fired');
-    	$.getJSON(('./data/'+ quizName + '.json'), function(data){
-    		console.log(data);
-    		$('#intro').append('<h1>'+data.name+'</h1>');
-    	});
+    function loadQuiz(quizName) {
+        console.log('loadQuiz fired');
+        console.log(quizName);
+        $.getJSON(('./data/' + quizName + '.json'), function(data) {
+            console.log('getJSON fired');
+            console.log(data);
+        });
+
     };
-
-
-
-
-
-
-
-
 
 
 

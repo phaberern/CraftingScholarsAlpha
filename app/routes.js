@@ -9,6 +9,10 @@ module.exports = function(app, passport) {
         res.render('home', {user: req.user, message: req.flash('loginMessage')}); // load the index.ejs file
     });
 
+    // app.get('/start', function(req, res){
+    //     res.render('quiz', {user: req.user});
+    // });
+
     app.get('/login', function(req, res) {
         // render the page and pass in any flash data if it exists
         res.render('home', { message: req.flash('loginMessage') });
