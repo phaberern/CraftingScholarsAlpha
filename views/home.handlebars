@@ -2,34 +2,27 @@
   <div id="logout">
     <a href="/logout">Logout</a>
   </div>
-
+  {{!-- SAT SELECTION --}}
   <div class="text-center" id="sat-selection-section">
     <label for="sat-selection">Select a section</label>
-      <select id="section-selection">
-        <option value="mathCalc">Math with Calc</option>
-        <option value="mathNoCalc">Math without Calc</option>
-        <option value="reading">Reading</option>
-        <option value="writing">Writing</option>
-      </select>
-      <button id="start-button">Start</button>
+        <select id="section-selection">
+          <option value="mathCalc">Math with Calc</option>
+          <option value="mathNoCalc">Math without Calc</option>
+          <option value="reading">Reading</option>
+          <option value="writing">Writing</option>
+        </select>
+        <button id="start-button">Start</button>
   </div>
+  {{!-- DYNAMIC QUIZ SECTION --}}
   <div id="quiz">
     <div id="section-intro">
       <div id="directions"></div>
     </div>
     <div class="row">
-      <div class="col-md-8">
-        <div id="content">
-          <div id="section-content"></div>
-        </div>
-      </div>
-      <div class="col-md-4">
-      <div id="questions">
-        <div id="section-questions"></div>
-      </div>
-      </div>
+      <div id="content"></div>
     </div>
   </div>
+  <div id="timer"></div>
 
 {{else}}
 

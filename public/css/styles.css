@@ -13,16 +13,27 @@
     height: auto;
 }
 
-.section-intro li {
+.passage-container {
     text-align: left;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+.passage {
+    border-right: 1px solid black;
 }
 
-.section-questions li {
-    margin-bottom: 10px;
+.passage-questions {
+    overflow: auto;
+}
+.question {
+    margin-bottom: 15px;
 }
 
 #start-button {
     display: inline;
+}
+#done-button {
+    text-align: center
 }
 
 .question-marker {

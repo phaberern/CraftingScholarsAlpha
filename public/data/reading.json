@@ -1,72 +1,705 @@
 {
     "name": "reading",
     "directions": [
-    	"This is a test for directions",
-        "This is a test for directions",
-        "This is a test for directions"
+        "Each passage or pair of passages below is followed by a number of questions. After reading each passage or pair, choose the best answer to each question based on what is stated or implied in the passage or passages and in any accompanying graphics (such as a table or graph)."
     ],
+    "time_allowed": 2100,
+    "answers": [],
+    "resources": [],
     "content": [
-    	"orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur.",
-        "orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur.",
-        "orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur.",
-        "orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum euismod augue, congue condimentum tellus tempor in. Nullam condimentum nisi tortor. Morbi luctus at velit quis dignissim. In a auctor quam. Nullam dignissim pulvinar faucibus. Maecenas ex risus, posuere vel porta eget, faucibus quis augue. Nam eget orci sed erat condimentum rhoncus. Mauris quis arcu libero. Sed efficitur, ante ac lobortis consequat, mi libero rhoncus justo, ac finibus ex justo a tortor. Phasellus fringilla diam vel massa sollicitudin, a feugiat mi cursus. Nam sodales molestie enim volutpat consectetur."
-    ],
-    "questions": [
     {
-        "question-type": "",
-        "question": "sample question 1",
-        "choices": [
-            "A.)",
-            "B.)",
-            "C.)",
-            "D.)"
+        "passage": [
+            "Questions 1-10 are based on the following passage.",
+            "This passage is from Charlotte Brontë, The Professor, originally published in 1857.",
+            "No man likes to acknowledge that he has made a mistake in the choice of his profession, and every man, worthy of the name, will row long against wind and tide before he allows himself to cry out, “I am baffled!” and submits to be floated passively back to land. From the first week of my residence in X—felt my occupation irksome. The thing itself—the work of copying and translating business-letters—was a dry and tedious task enough, but had that been all, I should long have borne with the nuisance; I am not of an impatient nature, and influenced by the double desire of getting my living and justifying to myself and others the resolution I had taken to become a tradesman, I should have endured in silence the rust and cramp of my best faculties; I should not have whispered, even inwardly, that I longed for liberty; I should have pent in every sigh by which my heart might have ventured to intimate its distress under the closeness, smoke, monotony, and joyless tumult of Bigben Close, and its panting desire for freer and fresher scenes; I should have set up the image of Duty, the fetish of Perseverance, in my small bedroom at Mrs. King’s lodgings, and they two should have been my household gods, from which my darling, my cherished-in-secret, Imagination, the tender and the mighty, should never, either by softness or strength, have severed me. But this was not all; the antipathy which had sprung up between myself and my employer striking deeper root and spreading denser shade daily, excluded me from every glimpse of the sunshine of life; and I began to feel like a plant growing in humid darkness out of the slimy walls of a well.",
+            "Antipathy is the only word which can express the feeling Edward Crimsworth had for me—a feeling, in a great measure, involuntary, and which was liable to be excited by every, the most trifling movement, look, or word of mine. My southern accent annoyed him; the degree of education evinced in my language irritated him; my punctuality, industry, and accuracy, fixed his dislike, and gave it the high flavour and poignant relish of envy; he feared that I too should one day make a successful tradesman. Had I been in anything inferior to him, he would not have hated me so thoroughly, but I knew all that he knew, and, what was worse, he suspected that I kept the padlock of silence on mental wealth in which he was no sharer. If he could have once placed me in a ridiculous or mortifying position, he would have forgiven me much, but I was guarded by three faculties—Caution, Tact, Observation; and prowling and prying as was Edward’s malignity, it could never baffle the lynx-eyes of these, my natural sentinels. Day by day did his malice watch my tact, hoping it would sleep, and prepared to steal snake-like on its slumber; but tact, if it be genuine, never sleeps.",
+            "I had received my first quarter’s wages, and was returning to my lodgings, possessed heart and soul with the pleasant feeling that the master who had paid me grudged every penny of that hard-earned pittance—(I had long ceased to regard Mr. Crimsworth as my brother—he was a hard, grinding master; he wished to be an inexorable tyrant: that was all). Thoughts, not varied but strong, occupied my mind; two voices spoke within me; again and again they uttered the same monotonous phrases. One said: “William, your life is intolerable.” The other: “What can you do to alter it?” I walked fast, for it was a cold, frosty night in January; as I approached my lodgings, I turned from a general view of my affairs to the particular speculation as to whether my fire would be out; looking towards the window of my sitting-room, I saw no cheering red gleam."
         ],
-        "answer": "a"
+        "questions": [
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "Which choice best summarizes the passage?",
+            "choices": [
+                "A.) A character describes his dislike for his new job and considers the reasons why.",
+                "B.) Two characters employed in the same office become increasingly competitive.",
+                "C.) A young man regrets privately a choice that he defends publicly.",
+                "D.) A new employee experiences optimism, then frustration, and finally despair."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "The main purpose of the opening sentence of the passage is to",
+            "choices": [
+                "A.) establish the narrator’s perspective on a controversy.",
+                "B.) provide context useful in understanding the narrator’s emotional state.",
+                "C.) offer a symbolic representation of Edward Crimsworth’s plight.",
+                "D.) contrast the narrator’s good intentions with his malicious conduct."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "During the course of the first paragraph, the narrator’s focus shifts from",
+            "choices": [
+                "A.) recollection of past confidence to acknowledgment of present self-doubt.",
+                "B.) reflection on his expectations of life as a tradesman to his desire for another job.",
+                "C.) generalization about job dissatisfaction to the specifics of his own situation.",
+                "D.) evaluation of factors making him unhappy to identification of alternatives."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "The references to “shade” and “darkness” at the end of the first paragraph mainly have which effect?",
+            "choices": [
+                "A.) They evoke the narrator’s sense of dismay.",
+                "B.) They reflect the narrator’s sinister thoughts.",
+                "C.) They capture the narrator’s fear of confinement.",
+                "D.) They reveal the narrator’s longing for rest."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "The passage indicates that Edward Crimsworth’s behavior was mainly caused by his",
+            "choices": [
+                "A.) impatience with the narrator’s high spirits.",
+                "B.) scorn of the narrator’s humble background.",
+                "C.) indignation at the narrator’s rash actions.",
+                "D.) jealousy of the narrator’s apparent superiority."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "The passage indicates that when the narrator began working for Edward Crimsworth, he viewed Crimsworth as a",
+            "choices": [
+                "A.) harmless rival.",
+                "B.) sympathetic ally.",
+                "C.) perceptive judge.",
+                "D.) demanding mentor."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 28-31 (“the antipathy... life”)",
+                "B.) Lines 38-40 (“My southern... irritated him”)",
+                "C.) Lines 54-56 (“Day... slumber”)",
+                "D.) Lines 61-62 (“I had... brother”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "At the end of the second paragraph, the comparisons of abstract qualities to a lynx and a snake mainly have the effect of",
+            "choices": [
+                "A.) contrasting two hypothetical courses of action.",
+                "B.) conveying the ferocity of a resolution.",
+                "C.) suggesting the likelihood of an altercation.",
+                "D.) illustrating the nature of an adversarial relationship."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "The passage indicates that, after a long day of work, the narrator sometimes found his living quarters to be",
+            "choices": [
+                "A.) treacherous.",
+                "B.) dreary.",
+                "C.) predictable.",
+                "D.) intolerable."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 1,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 17-21 (“I should... scenes”)",
+                "B.) Lines 21-23 (“I should... lodgings”)",
+                "C.) Lines 64-67 (“Thoughts... phrases”)",
+                "D.) Lines 68-74 (“I walked... gleam”)"
+            ],
+            "answer": "a"
+        }]
     },
     {
-        "question-type": "",
-        "question": "sample question 2",
-        "choices": [
-            "A.)",
-            "B.)",
-            "C.)",
-            "D.)"
+        "passage": [
+            "Questions 11-21 are based on the following passage and supplementary material.",
+            "This passage is adapted from Iain King, “Can Economics Be Ethical?” ©2013 by Prospect Publishing.",
+            "Recent debates about the economy have rediscovered the question, “is that right?”, where “right” means more than just profits or efficiency.",
+            "Some argue that because the free markets allow for personal choice, they are already ethical. Others have accepted the ethical critique and embraced corporate social responsibility. But before we can label any market outcome as “immoral,” or sneer at economists who try to put a price on being ethical, we need to be clear on what we are talking about.",
+            "There are different views on where ethics should apply when someone makes an economic decision. Consider Adam Smith, widely regarded as the founder of modern economics. He was a moral philosopher who believed sympathy for others was the basis for ethics (we would call it empathy nowadays). But one of his key insights in The Wealth of Nations was that acting on this empathy could be counter-productive—he observed people becoming better off when they put their own empathy aside, and interacted in a self-interested way. Smith justifies selfish behavior by the outcome. Whenever planners use cost-benefit analysis to justify a new railway line, or someone retrains to boost his or her earning power, or a shopper buys one to get one free, they are using the same approach: empathizing with someone, and seeking an outcome that makes that person as well off as possible—although the person they are empathizing with may be themselves in the future.",
+            "Instead of judging consequences, Aristotle said ethics was about having the right character—displaying virtues like courage and honesty. It is a view put into practice whenever business leaders are chosen for their good character. But it is a hard philosophy to teach—just how much loyalty should you show to a manufacturer that keeps losing money? Show too little and you’re a “greed is good” corporate raider; too much and you’re wasting money on unproductive capital. Aristotle thought there was a golden mean between the two extremes, and finding it was a matter of fine judgment. But if ethics is about character, it’s not clear what those characteristics should be.",
+            "There is yet another approach: instead of rooting ethics in character or the consequences of actions, we can focus on our actions themselves. From this perspective some things are right, some wrong—we should buy fair trade goods, we shouldn’t tell lies in advertisements. Ethics becomes a list of commandments, a catalog of “dos” and “don’ts.” When a finance official refuses to devalue a currency because they have promised not to, they are defining ethics this way. According to this approach devaluation can still be bad, even if it would make everybody better off.",
+            "Many moral dilemmas arise when these three versions pull in different directions but clashes are not inevitable. Take fair trade coffee (coffee that is sold with a certification that indicates the farmers and workers who produced it were paid a fair wage), for example: buying it might have good consequences, be virtuous, and also be the right way to act in a flawed market. Common ground like this suggests that, even without agreement on where ethics applies, ethical economics is still possible.",
+            "Whenever we feel queasy about “perfect” competitive markets, the problem is often rooted in a phony conception of people. The model of man on which classical economics is based—an entirely rational and selfish being—is a parody, as John Stuart Mill, the philosopher who pioneered the model, accepted. Most people—even economists—now accept that this “economic man” is a fiction. We behave like a herd; we fear losses more than we hope for gains; rarely can our brains process all the relevant facts.",
+            "These human quirks mean we can never make purely “rational” decisions. A new wave of behavioral economists, aided by neuroscientists, is trying to understand our psychology, both alone and in groups, so they can anticipate our decisions in the marketplace more accurately. But psychology can also help us understand why we react in disgust at economic injustice, or accept a moral law as universal. Which means that the relatively new science of human behavior might also define ethics for us. Ethical economics would then emerge from one of the least likely places: economists themselves.",
+            "PICTURE GOES HERE"
         ],
-        "answer": "a"
+        "questions": [
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "The main purpose of the passage is to",
+            "choices": [
+                "A.) consider an ethical dilemma posed by cost-benefit analysis.",
+                "B.) describe a psychology study of ethical economic behavior.",
+                "C.) argue that the free market prohibits ethical economics.",
+                "D.) examine ways of evaluating the ethics of economics."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "In the passage, the author anticipates which of the following objections to criticizing the ethics of free markets?",
+            "choices": [
+                "A.) Smith’s association of free markets with ethical behavior still applies today.",
+                "B.) Free markets are the best way to generate high profits, so ethics are a secondary consideration.",
+                "C.) Free markets are ethical because they are made possible by devalued currency.",
+                "D.) Free markets are ethical because they enable individuals to make choices."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 4-5 (“Some... ethical”)",
+                "B.) Lines 7-10 (“But... about”)",
+                "C.) Lines 21-22 (“Smith... outcome”)",
+                "D.) Lines 52-54 (“When... way”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "As used in line 6, “embraced” most nearly means",
+            "choices": [
+                "A.) lovingly held.",
+                "B.) readily adopted.",
+                "C.) eagerly hugged.",
+                "D.) reluctantly used."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "The main purpose of the fifth paragraph (lines 45-56) is to",
+            "choices": [
+                "A.) develop a counterargument to the claim that greed is good.",
+                "B.) provide support for the idea that ethics is about character.",
+                "C.) describe a third approach to defining ethical economics.",
+                "D.) illustrate that one’s actions are a result of one’s character."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "As used in line 58, “clashes” most nearly means",
+            "choices": [
+                "A.) conflicts.",
+                "B.) mismatches.",
+                "C.) collisions.",
+                "D.) brawls."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "Which choice best supports the author’s claim that there is common ground shared by the different approaches to ethics described in the passage?",
+            "choices": [
+                "A.) Lines 11-12 (“There... decision”)",
+                "B.) Lines 47-50 (“From... advertisements”)",
+                "C.) Lines 59-64 (“Take... market”)",
+                "D.) Lines 75-77 (“We... facts”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "The main idea of the final paragraph is that",
+            "choices": [
+                "A.) human quirks make it difficult to predict people’s ethical decisions accurately.",
+                "B.) people universally react with disgust when faced with economic injustice.",
+                "C.) understanding human psychology may help to define ethics in economics.",
+                "D.) economists themselves will be responsible for reforming the free market."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "Data in the graph about per-pound coffee profits in Tanzania most strongly support which of the following statements?",
+            "choices": [
+                "A.) Fair trade coffee consistently earned greater profits than regular coffee earned.",
+                "B.) The profits earned from regular coffee did not fluctuate.",
+                "C.) Fair trade coffee profits increased between 2004 and 2006.",
+                "D.) Fair trade and regular coffee were earning equal profits by 2008."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "Data in the graph indicate that the greatest difference between per-pound profits from fair trade coffee and those from regular coffee occurred during which period?",
+            "choices": [
+                "A.) 2000 to 2002",
+                "B.) 2002 to 2004",
+                "C.) 2004 to 2005",
+                "D.) 2006 to 2008"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 2,
+            "question-type": "",
+            "question": "Data in the graph provide most direct support for which idea in the passage?",
+            "choices": [
+                "A.) Acting on empathy can be counterproductive.",
+                "B.) Ethical economics is defined by character.",
+                "C.) Ethical economics is still possible.",
+                "D.) People fear losses more than they hope for gains."
+            ],
+            "answer": "a"
+        }]
     },
     {
-        "question-type": "",
-        "question": "sample question 3",
-        "choices": [
-            "A.)",
-            "B.)",
-            "C.)",
-            "D.)"
+        "passage": [
+            "Questions 22-32 are based on the following passages.",
+            "Passage 1 is adapted from Nicholas Carr, “Author Nicholas Carr: The Web Shatters Focus, Rewires Brains.” ©2010 by Condé Nast. Passage 2 is from Steven Pinker, “Mind over Mass Media.” ©2010 by The New York Times Company.",
+            "Passage 1",
+            "The mental consequences of our online info-crunching are not universally bad. Certain cognitive skills are strengthened by our use of computers and the Net. These tend to involve more primitive mental functions, such as hand-eye coordination, reflex response, and the processing of visual cues. One much-cited study of video gaming revealed that after just 10 days of playing action games on computers, a group of young people had significantly boosted the speed with which they could shift their visual focus between various images and tasks.",
+            "It’s likely that Web browsing also strengthens brain functions related to fast-paced problem solving, particularly when it requires spotting patterns in a welter of data. A British study of the way women search for medical information online indicated that an experienced Internet user can, at least in some cases, assess the trustworthiness and probable value of a Web page in a matter of seconds. The more we practice surfing and scanning, the more adept our brain becomes at those tasks.",
+            "But it would be a serious mistake to look narrowly at such benefits and conclude that the Web is making us smarter. In a Science article published in early 2009, prominent developmental psychologist Patricia Greenfield reviewed more than 40 studies of the effects of various types of media on intelligence and learning ability. She concluded that “every medium develops some cognitive skills at the expense of others.” Our growing use of the Net and other screen-based technologies, she wrote, has led to the “widespread and sophisticated development of visual-spatial skills.” But those gains go hand in hand with a weakening of our capacity for the kind of “deep processing” that underpins “mindful knowledge acquisition, inductive analysis, critical thinking, imagination, and reflection.”",
+            "We know that the human brain is highly plastic; neurons and synapses change as circumstances change. When we adapt to a new cultural phenomenon, including the use of a new medium, we end up with a different brain, says Michael Merzenich, a pioneer of the field of neuroplasticity. That means our online habits continue to reverberate in the workings of our brain cells even when we’re not at a computer. We’re exercising the neural circuits devoted to skimming and multitasking while ignoring those used for reading and thinking deeply.",
+            "Passage 2",
+            "Critics of new media sometimes use science itself to press their case, citing research that shows how “experience can change the brain.” But cognitive neuroscientists roll their eyes at such talk. Yes, every time we learn a fact or skill the wiring of the brain changes; it’s not as if the information is stored in the pancreas. But the existence of neural plasticity does not mean the brain is a blob of clay pounded into shape by experience.",
+            "Experience does not revamp the basic information-processing capacities of the brain. Speed-reading programs have long claimed to do just that, but the verdict was rendered by Woody Allen after he read Leo Tolstoy’s famously long novel War and Peace in one sitting: “It was about Russia.” Genuine multitasking, too, has been exposed as a myth, not just by laboratory studies but by the familiar sight of an SUV undulating between lanes as the driver cuts deals on his cell phone.",
+            "Moreover, the effects of experience are highly specific to the experiences themselves. If you train people to do one thing (recognize shapes, solve math puzzles, find hidden words), they get better at doing that thing, but almost nothing else. Music doesn’t make you better at math, conjugating Latin doesn’t make you more logical, brain-training games don’t make you smarter. Accomplished people don’t bulk up their brains with intellectual calisthenics; they immerse themselves in their fields. Novelists read lots of novels, scientists read lots of science.",
+            "The effects of consuming electronic media are likely to be far more limited than the panic implies. Media critics write as if the brain takes on the qualities of whatever it consumes, the informational equivalent of “you are what you eat.” As with ancient peoples who believed that eating fierce animals made them fierce, they assume that watching quick cuts in rock videos turns your mental life into quick cuts or that reading bullet points and online postings turns your thoughts into bullet points and online postings."
         ],
-        "answer": "a"
+        "questions": [
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "The author of Passage 1 indicates which of the following about the use of screen-based technologies?",
+            "choices": [
+                "A.) It should be thoroughly studied.",
+                "B.) It makes the brain increasingly rigid.",
+                "C.) It has some positive effects.",
+                "D.) It should be widely encouraged."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 3-4 (“Certain... Net”)",
+                "B.) Lines 23-25 (“But... smarter”)",
+                "C.) Lines 25-29 (“Ina... ability”)",
+                "D.) Lines 29-31 (“She... others”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "The author of Passage 1 indicates that becoming adept at using the Internet can",
+            "choices": [
+                "A.) make people complacent about their health.",
+                "B.) undermine the ability to think deeply.",
+                "C.) increase people’s social contacts.",
+                "D.) improve people’s self-confidence."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "As used in line 40, “plastic” most nearly means",
+            "choices": [
+                "A.) creative.",
+                "B.) artificial.",
+                "C.) malleable.",
+                "D.) sculptural."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "The author of Passage 2 refers to the novel War and Peace primarily to suggest that Woody Allen",
+            "choices": [
+                "A.) did not like Tolstoy’s writing style.",
+                "B.) could not comprehend the novel by speed-reading it.",
+                "C.) had become quite skilled at multitasking.",
+                "D.) regretted having read such a long novel."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "According to the author of Passage 2, what do novelists and scientists have in common?",
+            "choices": [
+                "A.) They take risks when they pursue knowledge.",
+                "B.) They are eager to improve their minds.",
+                "C.) They are curious about other subjects.",
+                "D.) They become absorbed in their own fields."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "The analogy in the final sentence of Passage 2 has primarily which effect?",
+            "choices": [
+                "A.) It uses ornate language to illustrate a difficult concept.",
+                "B.) It employs humor to soften a severe opinion of human behavior.",
+                "C.) It alludes to the past to evoke a nostalgic response.",
+                "D.) It criticizes the view of a particular group."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "The main purpose of each passage is to",
+            "choices": [
+                "A.) compare brain function in those who play games on the Internet and those who browse on it.",
+                "B.) report on the problem-solving skills of individuals with varying levels of Internet experience",
+                "C.) take a position on increasing financial support for studies related to technology and intelligence.",
+                "D.) make an argument about the effects of electronic media use on the brain."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "Which choice best describes the relationship between the two passages?",
+            "choices": [
+                "A.) Passage 2 relates first-hand experiences that contrast with the clinical approach in Passage 1.",
+                "B.) Passage 2 critiques the conclusions drawn from the research discussed in Passage 1.",
+                "C.) Passage 2 takes a high-level view of a result that Passage 1 examines in depth.",
+                "D.)  Passage 2 predicts the negative reactions that the findings discussed in Passage 1 might produce."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "On which of the following points would the authors of both passages most likely agree?",
+            "choices": [
+                "A.) Computer-savvy children tend to demonstrate better hand-eye coordination than do their parents.",
+                "B.) Those who criticize consumers of electronic media tend to overreact in their criticism.",
+                "C.) Improved visual-spatial skills do not generalize to improved skills in other areas.",
+                "D.) Internet users are unlikely to prefer reading onscreen text to reading actual books."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 3,
+            "question-type": "",
+            "question": "Which choice provides the best evidence that the author of Passage 2 would agree to some extent with the claim attributed to Michael Merzenich in lines 41-43, Passage 1?",
+            "choices": [
+                "A.) Lines 51-53 (“Critics... brain”)",
+                "B.) Lines 54-56 (“Yes... changes”)",
+                "C.) Lines 57-59 (“But... experience”)",
+                "D.) Lines 83-84 (“Media... consumes”)"
+            ],
+            "answer": "a"
+        }]
     },
     {
-        "question-type": "",
-        "question": "sample question 4",
-        "choices": [
-            "A.)",
-            "B.)",
-            "C.)",
-            "D.)"
+        "passage": [
+            "Questions 33-42 are based on the following passage.",
+            "This passage is adapted from Elizabeth Cady Stanton’s address to the 1869 Woman Suffrage Convention in Washington, DC.",
+            "I urge a sixteenth amendment, because “manhood suffrage,” or a man’s government, is civil, religious, and social disorganization. The male element is a destructive force, stern, selfish, aggrandizing, loving war, violence, conquest, acquisition, breeding in the material and moral world alike discord, disorder, disease, and death. See what a record of blood and cruelty the pages of history reveal! Through what slavery, slaughter, and sacrifice, through what inquisitions and imprisonments, pains and persecutions, black codes and gloomy creeds, the soul of humanity has struggled for the centuries, while mercy has veiled her face and all hearts have been dead alike to love and hope!",
+            "The male element has held high carnival thus far; it has fairly run riot from the beginning, overpowering the feminine element everywhere, crushing out all the diviner qualities in human nature, until we know but little of true manhood and womanhood, of the latter comparatively nothing, for it has scarce been recognized as a power until within the last century. Society is but the reflection of man himself, untempered by woman’s thought; the hard iron rule we feel alike in the church, the state, and the home. No one need wonder at the disorganization, at the fragmentary condition of everything, when we remember that man, who represents but half a complete being, with but half an idea on every subject, has undertaken the absolute control of all sublunary matters.",
+            "People object to the demands of those whom they choose to call the strong-minded, because they say “the right of suffrage will make the women masculine.” That is just the difficulty in which we are involved today. Though disfranchised, we have few women in the best sense; we have simply so many reflections, varieties, and dilutions of the masculine gender. The strong, natural characteristics of womanhood are repressed and ignored in dependence, for so long as man feeds woman she will try to please the giver and adapt herself to his condition. To keep a foothold in society, woman must be as near like man as possible, reflect his ideas, opinions, virtues, motives, prejudices, and vices. She must respect his statutes, though they strip her of every inalienable right, and conflict with that higher law written by the finger of God on her own soul..... . . [M]an has been molding woman to his ideas by direct and positive influences, while she, if not a negation, has used indirect means to control him, and in most cases developed the very characteristics both in him and herself that needed repression. And now man himself stands appalled at the results of his own excesses, and mourns in bitterness that falsehood, selfishness, and violence are the law of life. The need of this hour is not territory, gold mines, railroads, or specie payments but a new evangel of womanhood, to exalt purity, virtue, morality, true religion, to lift man up into the higher realms of thought and action.",
+            "We ask woman’s enfranchisement, as the first step toward the recognition of that essential element in government that can only secure the health, strength, and prosperity of the nation. Whatever is done to lift woman to her true position will help to usher in a new day of peace and perfection for the race.",
+            "In speaking of the masculine element, I do not wish to be understood to say that all men are hard, selfish, and brutal, for many of the most beautiful spirits the world has known have been clothed with manhood; but I refer to those characteristics, though often marked in woman, that distinguish what is called the stronger sex. For example, the love of acquisition and conquest, the very pioneers of civilization, when expended on the earth, the sea, the elements, the riches and forces of nature, are powers of destruction when used to subjugate one man to another or to sacrifice nations to ambition.",
+            "Here that great conservator of woman’s love, if permitted to assert itself, as it naturally would in freedom against oppression, violence, and war, would hold all these destructive forces in check, for woman knows the cost of life better than man does, and not with her consent would one drop of blood ever be shed, one life sacrificed in vain."
         ],
-        "answer": "a"
+        "questions": [
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "The central problem that Stanton describes in the passage is that women have been",
+            "choices": [
+                "A.) denied equal educational opportunities, which has kept them from reaching their potential.",
+                "B.) prevented from exerting their positive influence on men, which has led to societal breakdown.",
+                "C.) prevented from voting, which has resulted in poor candidates winning important elections.",
+                "D.) blocked by men from serving as legislators, which has allowed the creation of unjust laws."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "Stanton uses the phrase “high carnival” (line 15) mainly to emphasize what she sees as the",
+            "choices": [
+                "A.) utter domination of women by men.",
+                "B.) freewheeling spirit of the age.",
+                "C.) scandalous decline in moral values.",
+                "D.) growing power of women in society."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "Stanton claims that which of the following was a relatively recent historical development?",
+            "choices": [
+                "A.) The control of society by men",
+                "B.) The spread of war and injustice",
+                "C.) The domination of domestic life by men",
+                "D.) The acknowledgment of women’s true character"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 3-7 (“The male... death”)",
+                "B.) Lines 15-22 (“The male... century”)",
+                "C.) Lines 22-25 (“Society... home”)",
+                "D.) Lines 48-52 (“[M]an... repression”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "As used in line 24, “rule” most nearly refers to",
+            "choices": [
+                "A.) a general guideline.",
+                "B.) a controlling force.",
+                "C.) an established habit.",
+                "D.) a procedural method."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "It can reasonably be inferred that “the strong-minded” (line 32) was a term generally intended to",
+            "choices": [
+                "A.)  praise women who fight for their long-denied rights.",
+                "B.) identify women who demonstrate intellectual skill.",
+                "C.) criticize women who enter male-dominated professions.",
+                "D.) condemn women who agitate for the vote for their sex."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "As used in line 36, “best” most nearly means",
+            "choices": [
+                "A.) superior.",
+                "B.) excellent.",
+                "C.) genuine.",
+                "D.) rarest."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "Stanton contends that the situation she describes in the passage has become so dire that even men have begun to",
+            "choices": [
+                "A.) lament the problems they have created.",
+                "B.) join the call for woman suffrage.",
+                "C.) consider women their social equals.",
+                "D.) ask women how to improve civic life."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 25-30 (“No one... matters”)",
+                "B.) Lines 53-55 (“And now... life”)",
+                "C.) Lines 56-60 (“The need... action”)",
+                "D.) Lines 61-64 (“We ask... nation”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 4,
+            "question-type": "",
+            "question": "The sixth paragraph (lines 67-78) is primarily concerned with establishing a contrast between",
+            "choices": [
+                "A.) men and women.",
+                "B.) the spiritual world and the material world.",
+                "C.) bad men and good men.",
+                "D.) men and masculine traits."
+            ],
+            "answer": "a"
+        }]
     },
     {
-        "question-type": "",
-        "question": "sample question 5",
-        "choices": [
-            "A.)",
-            "B.)",
-            "C.)",
-            "D.)"
+        "passage": [
+            "Questions 43-52 are based on the following passage and supplementary material.",
+            "This passage is adapted from Geoffrey Giller, “Long a Mystery, How 500-Meter-High Undersea Waves Form Is Revealed.” ©2014 by Scientific American.",
+            "Some of the largest ocean waves in the world are nearly impossible to see. Unlike other large waves, these rollers, called internal waves, do not ride the ocean surface. Instead, they move underwater, undetectable without the use of satellite imagery or sophisticated monitoring equipment. Despite their hidden nature, internal waves are fundamental parts of ocean water dynamics, transferring heat to the ocean depths and bringing up cold water from below. And they can reach staggering heights—some as tall as skyscrapers.",
+            "Because these waves are involved in ocean mixing and thus the transfer of heat, understanding them is crucial to global climate modeling, says Tom Peacock, a researcher at the Massachusetts Institute of Technology. Most models fail to take internal waves into account. “If we want to have more and more accurate climate models, we have to be able to capture processes such as this,” Peacock says.",
+            "Peacock and his colleagues tried to do just that. Their study, published in November in Geophysical Research Letters, focused on internal waves generated in the Luzon Strait, which separates Taiwan and the Philippines. Internal waves in this region, thought to be some of the largest in the world, can reach about 500 meters high. “That’s the same height as the Freedom Tower that’s just been built in New York, ”Peacock says.",
+            "Although scientists knew of this phenomenon in the South China Sea and beyond, they didn’t know exactly how internal waves formed. To find out, Peacock and a team of researchers from M.I.T. and Woods Hole Oceanographic Institution worked with France’s National Center for Scientific Research using a giant facility there called the Coriolis Platform. The rotating platform, about 15 meters (49.2 feet) in diameter, turns at variable speeds and can simulate Earth’s rotation. It also has walls, which means scientists can fill it with water and create accurate, large-scale simulations of various oceanographic scenarios.",
+            "Peacock and his team built a carbon-fiber resin scale model of the Luzon Strait, including the islands and surrounding ocean floor topography. Then they filled the platform with water of varying salinity to replicate the different densities found at the strait, with denser, saltier water below and lighter, less briny water above. Small particles were added to the solution and illuminated with lights from below in order to track how the liquid moved. Finally, they re-created tides using two large plungers to see how the internal waves themselves formed.",
+            "The Luzon Strait’s underwater topography, with a distinct double-ridge shape, turns out to be responsible for generating the underwater waves. As the tide rises and falls and water moves through the strait, colder, denser water is pushed up over the ridges into warmer, less dense layers above it. This action results in bumps of colder water trailed by warmer water that generate an internal wave. As these waves move toward land, they become steeper—much the same way waves at the beach become taller before they hit the shore—until they break on a continental shelf.",
+            "The researchers were also able to devise a mathematical model that describes the movement and formation of these waves. Whereas the model is specific to the Luzon Strait, it can still help researchers understand how internal waves are generated in other places around the world. Eventually, this information will be incorporated into global climate models, making them more accurate. “It’s very clear, within the context of these [global climate] models, that internal waves play a role in driving ocean circulations,” Peacock says.",
+            "PICTURE GOES HERE"
         ],
-        "answer": "a"
-    }],
-    "answers": ["a", "b", "a", "b", "a"],
-    "time-allowed": "1000"
+        "questions": [
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "The first paragraph serves mainly to",
+            "choices": [
+                "A.) explain how a scientific device is used.",
+                "B.) note a common misconception about an event.",
+                "C.) describe a natural phenomenon and address its importance.",
+                "D.) present a recent study and summarize its findings."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "As used in line 19, “capture” is closest in meaning to",
+            "choices": [
+                "A.) control.",
+                "B.) record.",
+                "C.) secure.",
+                "D.) absorb."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "According to Peacock, the ability to monitor internal waves is significant primarily because",
+            "choices": [
+                "A.) it will allow scientists to verify the maximum height of such waves.",
+                "B.) it will allow researchers to shift their focus to improving the quality of satellite images.",
+                "C.) the study of wave patterns will enable regions to predict and prevent coastal damage.",
+                "D.)  the study of such waves will inform the development of key scientific models."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 1-2 (“Some... see”)",
+                "B.) Lines 4-6 (“they... equipment”)",
+                "C.) Lines 17-19 (“If... this”)",
+                "D.) Lines 24-26 (“Internal... high”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "As used in line 65, “devise” most nearly means",
+            "choices": [
+                "A.) create.",
+                "B.) solve.",
+                "C.) imagine.",
+                "D.) begin."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "Based on information in the passage, it can reasonably be inferred that all internal waves",
+            "choices": [
+                "A.) reach approximately the same height even though the locations and depths of continental shelves vary.",
+                "B.) may be caused by similar factors but are influenced by the distinct topographies of different regions.",
+                "C.) can be traced to inconsistencies in the tidal patterns of deep ocean water located near islands.",
+                "D.) are generated by the movement of dense water over a relatively flat section of the ocean floor."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "Which choice provides the best evidence for the answer to the previous question?",
+            "choices": [
+                "A.) Lines 29-31 (“Although... formed”)",
+                "B.) Lines 56-58 (“As the... it”)",
+                "C.) Lines 61-64 (“As these... shelf”)",
+                "D.) Lines 67-70 (“Whereas... world”)"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "In the graph, which isotherm displays an increase in depth below the surface during the period 19:12 to 20:24?",
+            "choices": [
+                "A.) 9°C",
+                "B.) 10°C",
+                "C.) 11°C",
+                "D.) 13°C"
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "Which concept is supported by the passage and by the information in the graph?",
+            "choices": [
+                "A.) Internal waves cause water of varying salinity to mix.",
+                "B.) Internal waves push denser water above layers of less dense water.",
+                "C.) Internal waves push bands of cold water above bands of warmer water.",
+                "D.) Internal waves do not rise to break the ocean’s surface."
+            ],
+            "answer": "a"
+        },
+        {
+            "passage-ref": 5,
+            "question-type": "",
+            "question": "How does the graph support the author’s point that internal waves affect ocean water dynamics?",
+            "choices": [
+                "A.) It demonstrates that wave movement forces warmer water down to depths that typically are colder.",
+                "B.) It reveals the degree to which an internal wave affects the density of deep layers of cold water.",
+                "C.) It illustrates the change in surface temperature that takes place during an isolated series of deep waves.",
+                "D.) It shows that multiple waves rising near the surface of the ocean disrupt the flow of normal tides."
+            ],
+            "answer": "a"
+        }]
+    }]
 }

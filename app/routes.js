@@ -1,17 +1,15 @@
 
 module.exports = function(app, passport) {
 
-    /*==========================================================================*/
-    /*-----------------------------GET ROUTES-----------------------------------*/
-    /*==========================================================================*/
+//************************************** get routes ******************************************
 
     app.get('/', function(req, res) {
         res.render('home', {user: req.user, message: req.flash('loginMessage')}); // load the index.ejs file
     });
 
-    // app.get('/start', function(req, res){
-    //     res.render('quiz', {user: req.user});
-    // });
+    app.get('/reading', function(req, res){
+        res.render('reading', {user: req.user});
+    });
 
     app.get('/login', function(req, res) {
         // render the page and pass in any flash data if it exists
@@ -34,9 +32,7 @@ module.exports = function(app, passport) {
         });
     });
 
-    /*==========================================================================*/
-    /*-----------------------------POST ROUTES-----------------------------------*/
-    /*==========================================================================*/
+//************************************** post routes ******************************************
 
     // process the login form
     app.post('/login', passport.authenticate('local-login', {
@@ -54,9 +50,7 @@ module.exports = function(app, passport) {
 
 };
 
-    /*==========================================================================*/
-    /*-----------------------------MIDDLEWARE-----------------------------------*/
-    /*==========================================================================*/
+//************************************** get routes ******************************************
 
 // route middleware to make sure a user is logged in
 function isLoggedIn(req, res, next) {
