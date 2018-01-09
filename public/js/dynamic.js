@@ -57,13 +57,13 @@ $('document').ready(function() {
                     markupReading(quiz);
                     break;
                 case 'writing':
-                    markupWriting();
+                    markupWriting(quiz);
                     break;
                 case 'math':
-                    markupMath();
+                    markupMath(quiz);
                     break;
                 case 'mathNoCalc':
-                    markupMath();
+                    markupMath(quiz);
                     break;
                 default:
                     alert('Sorry, quiz is not currenty available. Please contact admin.');
@@ -73,6 +73,8 @@ $('document').ready(function() {
             testTime = quiz.time_allowed
             counter = testTime;
             timerId = null;
+            //save timer to sessionStorage
+
             //start timer
             $("#timer").text(convertSeconds(counter));
             countdown();
@@ -176,66 +178,5 @@ $('document').ready(function() {
         }
         return $question;
     };
-
-    /*function markupReading(quiz) {
-        //load the content
-        for (var i = 0; i < quiz.content.length; i++) {
-
-            var currentPassage = (i + 1);
-            //create a sectionPassage div to contain the contents of each section
-            var $sectionPassage = $('<div class="passage">');
-            //creat a sectionQuestions div to contain the questions per passage (for styling purposes)
-            var $sectionQuestions = $('<div class="passage-questions">');
-
-            $sectionPassage.attr('id', ('passage' + currentPassage)); $sectionQuestions.attr('id', ('questions-for-passage' + currentPassage));
-
-                for (var j = 0; j < quiz.content[i].length; j++) {
-                    $sectionPassage.append('<p>' + quiz.content[i][j] + '<p>');
-                }
-                $('#section-content').append($sectionPassage); $('#section-content').append('<hr>');
-
-                //load questions per passage
-                for (var i = 0; i < quiz.questions.length; i++) {
-
-                    var currentQuestion = quiz.questions[i];
-                    var $question = $('<div class="question">');
-
-                    if (currentQuestion.passage_ref === currentPassage) {
-
-                        $question.append('<p>' + (i + 1) + '.) ' + currentQuestion.question + '</p>');
-
-                        for (var j = 0; j < currentQuestion.choices.length; j++) {
-                            var value = j;
-                            var answerChoice = currentQuestion.choices[j];
-                            //switch case to determine if the value attribute should be a, b, c, or d
-                            switch (value) {
-                                case 0:
-                                    value = 'a';
-                                    break;
-                                case 1:
-                                    value = 'b';
-                                    break;
-                                case 2:
-                                    value = 'c';
-                                    break;
-                                case 3:
-                                    value = 'd';
-                                    break;
-                                default:
-                                    //do nothing
-                            }
-                            //append the answer choice.
-                            if (answerChoice.indexOf('Lines') >= 0) {
-                                $question.append('<div class="multiple-choice-answer"><input type="radio" name="q' + (i + 1) + '" value="' + value + '"><span class="answer-choice-text"><span class="line-reference">&#9432;</span>' + answerChoice + '</span><sup class="mark-wrong">X</sup></div>');
-                            } else {
-                                $question.append('<div class="multiple-choice-answer"><input type="radio" name="q' + (i + 1) + '" value="' + value + '"><span class="answer-choice-text"> ' + answerChoice + '</span><sup class="mark-wrong">X</sup></div>');
-                            }
-                        }
-                        $sectionQuestions.append($question);
-                    }
-                }
-                $('#section-questions').append($sectionQuestions);
-            }
-        };*/
 
 });

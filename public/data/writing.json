@@ -1,8 +1,13 @@
 {
-	"name": "writing",
-	"directions":[],
-	"time-allowed":,
-	"answers": [],
-	"resources":[],
-	"content":{}
+    "name": "writing",
+    "directions": [
+        "Each passage below is accompanied by a number of questions. For some questions, you will consider how the passage might be revised to improve the expression of ideas. For other questions, you will consider how the passage might be edited to correct errors in sentence structure, usage, or punctuation.A passage or a question may be accompanied by one or more graphics(such as a table or graph) that you will consider as you make revising and editing decisions.",
+        "Some questions will direct you to an underlined portion of a passage. Other questions will direct you to a location in a passage or ask you to think about the passage as a whole.",
+        "After reading each passage, choose the answer to each question that most effectively improves the quality of writing in the passage or that makes the passage conform to the conventions of standard written English. Many questions include a “NO CHANGE” option. Choose that option if you think the best choice is to leave the relevant portion of the passage as it is.",
+    ],
+    "time-allowed": ,
+    "answers": [],
+    "resources": [],
+    "content":
+    {}
 }
