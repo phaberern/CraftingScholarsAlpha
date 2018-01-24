@@ -1,12 +1,10 @@
 $("document").ready(function() {
     //global variables for timer
-    var testTime = 2100; //35 minutes = 2100 seconds
-    var counter = 2100; //set equal to testTime
+    var testTime; //35 minutes = 2100 seconds
+    var counter; //set equal to testTime
     var timerId = null; //to clear interval and stop timer
 
     var checkedInputs = []; //keep track of every input that is checked
-
-    var multipleChoiceAnswers = ["a", "b", "c", "a", "d", "b", "d", "d", "b", "d"];
 
 
     //***************************** MAIN method to kick things off ****************
@@ -113,8 +111,8 @@ $("document").ready(function() {
 //this is a revealing modular pattern. it keeps all of the variables and functions in scope so nothing leaks out onto the global scope of your webpage.
 (function() {
 
-    var theQuestions = (function() {
-        var theFile = ['jsonfile.json'];
+    var quiz = (function() {
+        var theFile = ['./data/reading.json'];
 
         loopQuestions = function() {
             //for loop that reads the number of json files in the array 'theFile', so if you have multiple json files and want to keep them separate, this is useful
@@ -159,7 +157,7 @@ $("document").ready(function() {
                         }
                     }
                 });
-            }
+
             strikeThroughAnswer();
             scrollToLineReference();
         }
@@ -181,5 +179,5 @@ $("document").ready(function() {
             init: loopQuestions
         };
     })(); //self invoking function, fires immediately. known as IIFE.
-    theQuestions.init(); //this calls the function to be ran.
+    quiz.init(); //this calls the function to be ran.
 })(); //another self invoking function, this function runs when it reads the js. not on dom read.

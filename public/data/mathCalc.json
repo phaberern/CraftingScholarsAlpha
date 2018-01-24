@@ -1,0 +1,382 @@
+{
+    "name": "math",
+    "directions": [
+      "For questions 1-30, solve each problem, choose the best answer from the choices provided, and fill in the corresponding circle on your answer sheet. For questions 31-38, solve the problem and enter your answer in the grid on the answer sheet. Please refer to the directions before question 31 on how to enter your answers in the grid. You may use any available space in your test booklet for scratch work."
+    ],
+    "notes": [
+      "The use of a calculator is permitted.",
+      "All variables and expressions used represent real numbers unless otherwise indicated.",
+      "Figures provided in this test are drawn to scale unless otherwise indicated.",
+      "All figures lie in a plane unless otherwise indicated.",
+      "Unless otherwise indicated, the domain of a given function <em>f</em> is the set of all real numbers <em>x</em> for which <em>f(x)</em> is a real number."
+    ],
+    "time_allowed": 2100,
+    "answers": [],
+    "resources": [],
+    "content": [
+      {
+        "questions": [
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "A musician has a new song available for downloading or streaming. The musician earns $0.09 each time the song is downloaded and $0.002 each time the song is streamed. Which of the following expressions represents the amount, in dollars, that the musician earns if the song is downloaded <em>d</em> times and streamed <em>s</em> times?",
+              "choices": [
+                  "A.) 0.002<em>d</em> + 0.09<em>s</em>",
+                  "B.) 0.002<em>d</em> - 0.09<em>s</em>",
+                  "C.) 0.09<em>d</em> + 0.002<em>s</em>",
+                  "D.) 0.09<em>d</em> - 0.002<em>s</em>"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "A quality control manager at a factory selects 7 lightbulbs at random for inspection out of every 400 lightbulbs produced. At this rate, how many lightbulbs will be inspected if the factory produces 20,000 lightbulbs?",
+              "choices": [
+                  "A.) 300",
+                  "B.) 350",
+                  "C.) 400",
+                  "D.) 450"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "<em>l</em> = 24 + 3.5<em>m</em><br>One end of a spring is attached to a ceiling. When an object of mass <em>m</em> kilograms is attached to the other end of the spring, the spring stretches to a length of <em>l</em> centimeters as shown in the equation above. What is <em>m</em> when <em>l</em> is 73 ?",
+              "choices": [
+                  "A.) 14",
+                  "B.) 27.7",
+                  "C.) 73",
+                  "D.) 279.5"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "How much money will the performer earn when 20 people attend a performance?",
+              "choices": [
+                  "A.) $960",
+                  "B.) $480",
+                  "C.) $300",
+                  "D.) $240"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "The performer uses 43% of the money earned to pay the costs involved in putting on each performance. The rest of the money earned is the performer’s profit. What is the profit the performer makes at a performance where 8 people attend?",
+              "choices": [
+                  "A.) $51.60",
+                  "B.) $57.00",
+                  "C.) $68.40",
+                  "D.) $77.00"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "When 4 times the number <em>x</em> is added to 12, the result is 8. What number results when 2 times <em>x</em> is added to 7 ?",
+              "choices": [
+                  "A.) -1",
+                  "B.) 5",
+                  "C.) 8",
+                  "D.) 9"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "<em>y</em> = <em>x</em><sup>2</sup> - 6<em>x</em> + 8<br>The equation above represents a parabola in the <em>xy</em>-plane. Which of the following equivalent forms of the equation displays the <em>x</em>-intercepts of the parabola as constants or coefficients?",
+              "choices": [
+                  "A.) <em>y</em> - 8 = <em>x</em><sup>2</sup> - 6<em>x</em>",
+                  "B.) <em>y</em> + 1 = (<em>x</em> - 3)<sup>2</sup>",
+                  "C.) <em>y</em> = <em>x</em>(<em>x</em> - 6) + 8",
+                  "D.) <em>y</em> = (<em>x</em> - 2)(<em>x</em> - 4)"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "In a video game, each player starts the game with <em>k</em> points and loses 2 points each time a task is not completed. If a player who gains no additional points and fails to complete 100 tasks has a score of 200 points, what is the value of <em>k</em> ?",
+              "choices": [
+                  "A.) 0",
+                  "B.) 150",
+                  "C.) 250",
+                  "D.) 400"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "A worker uses a forklift to move boxes that weigh either 40 pounds or 65 pounds each. Let <em>x</em> be the number of 40-pound boxes and <em>y</em> be the number of 65-pound boxes. The forklift can carry up to either 45 boxes or a weight of 2,400 pounds. Which of the following systems of inequalities represents this relationship?",
+              "choices": [
+                  "A.) <img>",
+                  "B.) <img>",
+                  "C.) <img>",
+                  "D.) <img>"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "A function <em>f</em> satisfies <em>f</em>(2) = 3 and <em>f</em>(3) = 5. A function <em>g</em> satisfies <em>g</em>(3) = 2 and <em>g</em>(5) = 6. What is the value of <em>fg</em>((3)) ?",
+              "choices": [
+                  "A.) 2",
+                  "B.) 3",
+                  "C.) 5",
+                  "D.) 6"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ11.png",
+              "question": "Tony is planning to read a novel. The table above shows information about the novel, Tony’s reading speed, and the amount of time he plans to spend reading the novel each day. If Tony reads at the rates given in the table, which of the following is closest to the number of days it would take Tony to read the entire novel?",
+              "choices": [
+                  "A.) 6",
+                  "B.) 8",
+                  "C.) 23",
+                  "D.) 324"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "On January 1, 2000, there were 175,000 tons of trash in a landfill that had a capacity of 325,000 tons. Each year since then, the amount of trash in the landfill increased by 7,500 tons. If <em>y</em> represents the time, in years, after January 1, 2000, which of the following inequalities describes the set of years where the landfill is at or above capacity?",
+              "choices": [
+                  "A.) 325,000 - 7,500 less that or equal to <em>y</em>",
+                  "B.) 325,000 less than or equal to 7,500<em>y</em>",
+                  "C.) 150,000 greater than or equal to 7,500<em>y</em>",
+                  "D.) 175,000 + 7,500<em>y</em> greater than or equal to 325,000"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "A researcher conducted a survey to determine whether people in a certain large town prefer watching sports on television to attending the sporting event. The researcher asked 117 people who visited a local restaurant on a Saturday, and 7 people refused to respond. Which of the following factors makes it least likely that a reliable conclusion can be drawn about the sports-watching preferences of all people in the town?",
+              "choices": [
+                  "A.) Sample size",
+                  "B.) Population size",
+                  "C.) The number of people who refused to respond",
+                  "D.) Where the survey was given"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ14.png",
+              "question": "According to the line of best fit in the scatterplot above, which of the following best approximates the year in which the number of miles traveled by air passengers in Country X was estimated to be 550 billion?",
+              "choices": [
+                  "A.) 1997",
+                  "B.) 2000",
+                  "C.) 2003",
+                  "D.) 2008"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "The distance traveled by Earth in one orbit around the Sun is about 580,000,000 miles. Earth makes one complete orbit around the Sun in one year. Of the following, which is closest to the average speed of Earth, in miles per hour, as it orbits the Sun?",
+              "choices": [
+                  "A.) 63,000",
+                  "B.) 93,000",
+                  "C.) 210,000",
+                  "D.) 420,000"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ16.png",
+              "question": "The table above summarizes the results of 200 law school graduates who took the bar exam. If one of the surveyed graduates who passed the bar exam is chosen at random for an interview, what is the probability that the person chosen did not take the review course?",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          }
+        ]
+      }
+    ]
+}

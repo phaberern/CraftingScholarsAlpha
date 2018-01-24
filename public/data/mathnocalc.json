@@ -1,11 +1,260 @@
 {
-	"name": "mathNoCalc",
-	"directions":[
-		"For questions 1-15, solve each problem, choose the best answer from the choices provided, and fill in the corresponding circle on your answer sheet. For questions 16-20, solve the problem and enter your answer in the grid on the answer sheet. Please refer to the directions before question 16 on how to enter your answers in the grid. You may use any available space in your test booklet for scratch work.",
-
-	],
-	"time-allowed":,
-	"answers": [],
-	"resources":[],
-	"content":{}
+    "name": "math",
+    "directions": [
+        "For questions 1-15, solve each problem, choose the best answer from the choices provided, and fill in the corresponding circle on your answer sheet. For questions 16-20, solve the problem and enter your answer in the grid on the answer sheet. Please refer to the directions before question 16 on how to enter your answers in the grid. You may use any available space in your test booklet for scratch work.",
+    ],
+    "notes": [
+        "The use of a calculator is not permitted.",
+        "All variables and expressions used represent real numbers unless otherwise indicated.",
+        "Figures provided in this test are drawn to scale unless otherwise indicated.",
+        "All figures lie in a plane unless otherwise indicated.",
+        "Unless otherwise indicated, the domain of a given function f is the set of all real numbers x for which f(x) is a real number"
+    ],
+    "time_allowed": 2100,
+    "answers": [],
+    "resources": [],
+    "content":
+    {
+        "questions": [
+        {
+            "question-type": "",
+            "img": "",
+            "question": "If 5 + 6 = 10 x , what is the value of 10 + 3 x ?",
+            "choices": [
+                "A.) 4",
+                "B.) 9",
+                "C.) 11",
+                "D.) 20"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "x+y=0 <br> 3x - 2y = 10 <br> Which of the following ordered pairs (, ) x y satisfies the system of equations above?",
+            "choices": [
+                "A.) (3, −2)",
+                "B.) (2, −2)",
+                "C.) (−2, 2)",
+                "D.) (−2, −2)"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "A landscaping company estimates the price of a job, in dollars, using the expression 60 + 12<em>nh</em>, where <em>n</em> is the number of landscapers who will be working and <em>h</em> is the total number of hours the job will take using <em>n</em> landscapers. Which of the following is the best interpretation of the number 12 in the expression?",
+            "choices": [
+                "A.)  The company charges $12 per hour for each landscaper.",
+                "B.) A minimum of 12 landscapers will work on each job.",
+                "C.) The price of every job increases by $12 every hour.",
+                "D.) Each landscaper works 12 hours a day."
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "9<em>a</enm><sup>4</sup> + 12<em>a</em><sup>2</sup><em>b</em><sup>2</sup> + 4<em>b</em><sup>4</sup><br>Which of the following is equivalent to the expression shown above?",
+            "choices": [
+                "A.) (3<em>a</em><sup>2</sup> + 2<em>b</em><sup>2</sup>)<sup>2</sup>",
+                "B.) (3<em>a</em> + 2<em>b</em>)<sup>4</sup>",
+                "C.) (9<em>a</em><sup>2</sup> + 4<em>b</em><sup>2</sup>)<sup>2</sup>",
+                "D.) (9<em>a</em> + 4<em>b</em>)<sup>4</sup>"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "mathNoCalcQ5.png",
+            "question": "If <em>k</em> > 0 and <em>x</em> = 7 in the equation above, what is the value of <em>k</em> ?",
+            "choices": [
+                "A.) 2",
+                "B.) 3",
+                "C.) 4",
+                "D.) 5"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "mathNoCalcQ6.png",
+            "question": "In the <em>xy</em>-plane above, line <em>A</em> is parallel to line <em>k</em>. What is the value of <em>p</em> ?",
+            "choices": [
+                "A.) 4",
+                "B.) 5",
+                "C.) 8",
+                "D.) 10"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "mathNoCalcQ7.png",
+            "question": "",
+            "choices": [
+                "A.) 8",
+                "B.) 14",
+                "C.) 16",
+                "D.) 18"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "<em>nA</em> = 360 <br> The measure <em>A</em>, in degrees, of an exterior angle of a regular polygon is related to the number of sides, <em>n</em>, of the polygon by the formula above. If the measure of an exterior angle of a regular polygon is greater than 50°, what is the greatest number of sides it can have?",
+            "choices": [
+                "A.) 5",
+                "B.) 6",
+                "C.) 7",
+                "D.) 8"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "The graph of a line in the <em>xy</em>-plane has slope 2 and contains the point (1, 8). The graph of a second line passes through the points (1, 2) and (2, 1). If the two lines intersect at the point (, ) <em>a b</em> , what is the value of <em>a b</em> + ?",
+            "choices": [
+                "A.) 4",
+                "B.) 3",
+                "C.) -1",
+                "D.) -4"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "Which of the following equations has a graph in the <em>xy</em>-plane for which <em>y</em> is always greater than or equal to −1 ?",
+            "choices": [
+                "A.) <em>y</em> = |<em>x</em>| - 2",
+                "B.) <em>y</em> = <em>x</em><sup>2</sup>-2",
+                "C.) <em>y</em> = (<em>x</em> - 2)<sup>2</sup>",
+                "D.) <em>y</em> = <em>x</em><sup>3</sup> - 2"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "mathNoCalcQ11.png",
+            "question": "",
+            "choices": [
+                "A.) <sup>3</sup>&frasl;<sub>8</sub> - <sup>5<em>i</em>&frasl;<sub>2</sub>",
+                "B.) <sup>3</sup>&frasl;<sub>8</sub> + <sup>5<em>i</em>&frasl;<sub>2</sub>",
+                "C.) <sup>7</sup>&frasl;<sub>34</sub> - <sup>23<em>i</em></sup>&frasl;<sub>34</sub>",
+                "D.) <sup>7</sup>&frasl;<sub>34</sub> + <sup>23<em>i</em></sup>&frasl;<sub>34</sub>"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "<em>R</em> = <sup></sup>&frals;<sub></sub><br>A website uses the formula above to calculate a seller’s rating, <em>R</em>, based on the number of favorable reviews, <em>F</em>, and unfavorable reviews, <em>N</em>. Which of the following expresses the number of favorable reviews in terms of the other variables?",
+            "choices": [
+                "A.) <em>F</em> = <sup><em>F</em></sup>&frals;<sub><em>N + F</em></sub>",
+                "B.) <em>F</em> = <sup><em>RN</em></sup>&frals;<sub><em>R - 1</em></sub>",
+                "C.) <em>F</em> = <sup><em>N</em></sup>&frals;<sub><em></em>1 - R</sub>",
+                "D.) <em>F</em> = <sup><em><N/em></sup>&frals;<sub><em>R - 1</em></sub>"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "What is the sum of all values of <em>m</em> that satisfy 2<em>m</em><sup>2</sup> - 16<em>m</em> + 8 = 0?",
+            "choices": [
+                "A.) -8",
+                "B.) -4&#8370;3",
+                "C.) 4&#8370;3",
+                "D.) 8"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "A radioactive substance decays at an annual rate of 13 percent. If the initial amount of the substance is 325 grams, which of the following functions <em>f</em> models the remaining amount of the substance, in grams, <em>t</em> years later?",
+            "choices": [
+                "A.) <em>f(t)</em> = 325(0.87)<sup><em>t</em></sup>",
+                "B.) <em>f(t)</em> = 325(0.13)<sup><em>t</em></sup>",
+                "C.) <em>f(t)</em> = 0.87(325)<sup><em>t</em></sup>",
+                "D.) <em>f(t)</em> = 0.13(325)<sup><em>t</em></sup>"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "",
+            "img": "",
+            "question": "The expression <sup>5<em>x</em> - 2</sup>&frasl;<sub><em>x</em> + 3</sub>",
+            "choices": [
+                "A.) <sup>5 - 2</sup>&frasl;<sub>3</sub>",
+                "B.) 5 - <sup>2</sup>&frasl;<sub>3</sub>",
+                "C.) 5 - <sup>2</sup>&frasl;<sub><em>x</em> + 3</sub>",
+                "D.) 5 - <sup>17</sup>&frasl;<sub><em>x</em> + 3</sub>"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "free response",
+            "img": "",
+            "question": "The sales manager of a company awarded a total of $3000 in bonuses to the most productive salespeople. The bonuses were awarded in amounts of $250 or $750. If at least one $250 bonus and at least one $750 bonus were awarded, what is one possible number of $250 bonuses awarded?",
+            "choices": [
+                "A.)",
+                "B.)",
+                "C.)",
+                "D.)"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "free response",
+            "img": "",
+            "question": "2<em>x</em>(3<em>x</em> + 5) + 3(3<em>x</em> + 5) = <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em><br>In the equation above, <em>a</em>, <em>b</em>, and <em>c</em> are constants. If the equation is true for all values of <em>x</em>, what is the value of <em>b</em> ?",
+            "choices": [
+                "A.)",
+                "B.)",
+                "C.)",
+                "D.)"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "free response",
+            "img": "mathNoCalcQ18.png",
+            "question": "In the quesiton above, <em>&AEmacr;</em> || <em>&CDmacr;</em> and segment <em>AD</em> intersects segment <em>CE</em> at <em>B</em>. What is the length of segment <em>CE</em>?",
+            "choices": [
+                "A.)",
+                "B.)",
+                "C.)",
+                "D.)"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "free response",
+            "img": "mathNoCalcQ19.png",
+            "question": "In the <em>xy</em> plane above, <em>O</em> is the center of the circle, and the measure of &ang;<em>AOB</em> is <sup>&piv;</sup>&frasl;<sub><em>a</em></sub>. What is the value of <em>a</em>?",
+            "choices": [
+                "A.)",
+                "B.)",
+                "C.)",
+                "D.)"
+            ],
+            "answer": ""
+        },
+        {
+            "question-type": "free response",
+            "img": "",
+            "question": "<em>ax</em> + <em>by</em> = 12<br>2<em>x</em> + 8<em>y</em> = 60<br>In the system of equations above, <em>a</em> and <em>b</em> are constants. If the system has infinitely many solutions, what is the value of <sup><em>a</em><sup>&frasl;<sub><em>b</em></sub>?",
+            "choices": [
+                "A.)",
+                "B.)",
+                "C.)",
+                "D.)"
+            ],
+            "answer": ""
+        }]
+    }
 }

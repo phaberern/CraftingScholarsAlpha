@@ -5,9 +5,10 @@ $('document').ready(function() {
     var timerId;
     //on click, start exam
     $('#start-button').on('click', function() {
-        $('#sat-selection-section').hide();
         console.log('start button fired');
         var selection = $('#section-selection').val();
+        console.log(selection);
+        $('#sat-selection-section').remove();
         loadQuiz(selection);
     });
 
@@ -126,9 +127,14 @@ $('document').ready(function() {
 
     function markupMath(quiz) {
 
+        //load notes
+        // for(var i = 0; i < quiz.notes.length; i++){
+        //
+        // }
+        console.log(quiz.content[0].questions.length);
         //load content
-        for (var i = 0; i < quiz.content.length; i++) {
-
+        for (var i = 0; i < quiz.content[0].questions.length; i++) {
+          $('#content').append(renderMultipleChoiceQuestion(quiz.content[0].questions[i], i));
         }
 
     };

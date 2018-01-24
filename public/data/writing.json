@@ -5,9 +5,26 @@
         "Some questions will direct you to an underlined portion of a passage. Other questions will direct you to a location in a passage or ask you to think about the passage as a whole.",
         "After reading each passage, choose the answer to each question that most effectively improves the quality of writing in the passage or that makes the passage conform to the conventions of standard written English. Many questions include a “NO CHANGE” option. Choose that option if you think the best choice is to leave the relevant portion of the passage as it is.",
     ],
-    "time-allowed": ,
+    "time_allowed": 2100,
     "answers": [],
     "resources": [],
-    "content":
-    {}
+    "content": [
+      {
+        "passage": [],
+        "questions": [
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) ",
+                  "B.) ",
+                  "C.) ",
+                  "D.) "
+              ],
+              "answer": ""
+          }
+        ]
+      }
+    ]
 }
