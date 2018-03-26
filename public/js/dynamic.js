@@ -42,7 +42,7 @@ $('document').ready(function() {
     //functions for quiz load_______________________________________________________
 
     function loadQuiz(quizName) {
-
+        console.log('start of loadQuiz with : ' + quizName);
         $.getJSON(('./data/' + quizName + '.json'), function(data) {
             console.log(data);
             var quiz = data;
@@ -58,7 +58,8 @@ $('document').ready(function() {
                     markupReading(quiz);
                     break;
                 case 'writing':
-                    markupWriting(quiz);
+                    console.log('inside switch statement' + quiz);
+                    markupReading(quiz);
                     break;
                 case 'math':
                     markupMath(quiz);
@@ -79,8 +80,9 @@ $('document').ready(function() {
             //start timer
             $("#timer").text(convertSeconds(counter));
             countdown();
-        });
 
+        });
+    console.log('end of loadQuiz with : ' + quizName);
     };
 
     //markup functions for each quiz_______________________________________________________
