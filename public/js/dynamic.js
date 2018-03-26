@@ -114,6 +114,12 @@ $('document').ready(function() {
             $('#passage-container'+(i+1)).height(left);
             $('#questions-for-passage'+(i+1)).height(left);
         }
+
+        (function strikeThroughAnswer(){
+          $(document).on('click', '.mark-wrong', function() {
+              $(this).siblings().toggleClass('mark-answer-wrong');
+          });
+        })();
     };
 
     function markupWriting(quiz) {
@@ -131,7 +137,6 @@ $('document').ready(function() {
         // for(var i = 0; i < quiz.notes.length; i++){
         //
         // }
-        console.log(quiz.content[0].questions.length);
         //load content
         for (var i = 0; i < quiz.content[0].questions.length; i++) {
           $('#content').append(renderMultipleChoiceQuestion(quiz.content[0].questions[i], i));
@@ -143,7 +148,7 @@ $('document').ready(function() {
 
         //load content
         for (var i = 0; i < quiz.content.length; i++) {
-
+          $('#content').append(renderMultipleChoiceQuestion(quiz.content[0].questions[i], i));
         }
 
     };
@@ -184,5 +189,7 @@ $('document').ready(function() {
         }
         return $question;
     };
+
+
 
 });

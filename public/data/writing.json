@@ -10,17 +10,578 @@
     "resources": [],
     "content": [
       {
-        "passage": [],
+        "passage": [
+          "Questions 1-11 are based on the following passage.",
+          "Librarians Help Navigate in the Digital Age",
+          "In recent years, public libraries in the United States have experienced 1 reducing in their operating funds due to cuts imposed at the federal, state, and local government levels. 2 However, library staffing has been cut by almost four percent since 2008, and the demand for librarians continues to decrease, even though half of public libraries report that they have an insufficient number of staff to meet their patrons’ needs. Employment in all job sectors in the United States is projected to grow by fourteen percent over the next decade, yet the expected growth rate for librarians is predicted to be only seven percent, or half of the overall rate. This trend, combined with the increasing accessibility of information via the Internet, 3 has led some to claim that librarianship is in decline as a profession. As public libraries adapt to rapid technological advances in information distribution, librarians’ roles are actually expanding",
+          "The share of library materials that is in nonprint formats 4 is increasing steadily; in 2010, at least 18.5 million e-books were available 5 for them to circulate. As a result, librarians must now be proficient curators of electronic information, compiling, 6 catalog, and updating these collections. But perhaps even more importantly, librarians function as first responders for their communities’ computer needs. Since one of the fastest growing library services is public access computer use, there is great demand for computer instruction. 7 In fact, librarians’ training now includes courses on research and Internet search methods. Many of whom teach classes in Internet navigation, database and software use, and digital information literacy. While these classes are particularly helpful to young students developing basic research skills, 8 but adult patrons can also benefit from librarian assistance in that they can acquire job-relevant computer skills. 9 Free to all who utilize their services, public libraries and librarians are especially valuable, because they offer free resources that may be difficult to find elsewhere, such as help with online job",
+          "In sum, the Internet does not replace the need for librarians, and librarians are hardly obsolete. 11 Like books, librarians have been around for a long time, but the Internet is extremely useful for many types of research."
+        ],
         "questions": [
           {
               "passage-ref": 1,
               "question-type": "",
               "question": "",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) NO CHANGE",
+                  "B.) reductions",
+                  "C.) deducting",
+                  "D.) deducts"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.)  NO CHANGE",
+                  "B.) Consequently,",
+                  "C.) Nevertheless,",
+                  "D.) Previously,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) have",
+                  "C.) which have",
+                  "D.) which has"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "At this point, the writer is considering adding the following information. —e-books, audio and video materials, and online journals— Should the writer make this addition here?",
+              "choices": [
+                  "A.) Yes, because it provides specific examples of the materials discussed in the sentence.",
+                  "B.) Yes, because it illustrates the reason for the increase mentioned later in the sentence.",
+                  "C.) No, because it interrupts the flow of the sentence by supplying irrelevant information.",
+                  "D.) No, because it weakens the focus of the passage by discussing a subject other than librarians."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) to be circulated by them.",
+                  "C.) for their circulating.",
+                  "D.) for circulation."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) librarians cataloging",
+                  "C.) to catalog,",
+                  "D.)  cataloging,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "Which choice most effectively combines the underlined sentences?",
+              "choices": [
+                  "A.) In fact, librarians’ training now includes courses on research and Internet search methods; many librarians teach classes in Internet navigation, database and software use, and digital information literacy is taught by them.",
+                  "B.) In fact, many librarians, whose training now includes courses on research and Internet search methods, teach classes in Internet navigation, database and software use, and digital information literacy.",
+                  "C.) Training now includes courses on research and Internet search methods; many librarians, in fact, are teaching classes in Internet navigation, database and software use, and digital information literacy.",
+                  "D.) Including courses on research and Internet search methods in their training is, in fact, why many librarians teach classes in Internet navigation, database and software use, and digital information literacy."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) and",
+                  "C.) for",
+                  "D.) DELETE the underlined portion."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "Which choice most effectively sets up the examples given at the end of the sentence?",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) During periods of economic recession,",
+                  "C.) Although their value cannot be measured,",
+                  "D.) When it comes to the free services libraries provide,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) legal issues,",
+                  "C.) concerns related to law courts,",
+                  "D.) matters for the law courts,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 1,
+              "question-type": "",
+              "question": "Which choice most clearly ends the passage with a restatement of the writer’s primary claim?",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) Although their roles have diminished significantly, librarians will continue to be employed by public libraries for the foreseeable future.",
+                  "C.) The growth of electronic information has led to a diversification of librarians’ skills and services, positioning them as savvy resource specialists for patrons.",
+                  "D.) However, given their extensive training and skills, librarians who have been displaced by budget cuts have many other possible avenues of employment."
+              ],
+              "answer": ""
+          }
+        ]
+      },
+      {
+        "passage": [
+          "Questions 12-22 are based on the following passage.",
+          "Tiny Exhibit, Big Impact",
+          "The first time I visited the Art Institute of Chicago, I expected to be impressed by its famous large paintings. 12 On one hand, I couldn’t wait to view 13 painter, Georges Seurat’s, 10-foot-wide A Sunday Afternoon on the Island of La Grande Jatte in its full size. It took me by surprise, then, when my favorite exhibit at the museum was one of 14 it’s tiniest; the Thorne Miniature Rooms.",
+          "Viewing the exhibit, I was amazed by the intricate details of some of the more ornately decorated rooms. I marveled at a replica of a salon (a formal living room) dating back to the reign of French king Louis XV. 15 Built into the dark paneled walls are bookshelves stocked with leather-bound volumes. The couch and chairs, in keeping with the style of the time, are characterized by elegantly curved arms and 16 legs, they are covered in luxurious velvet. A dime-sized portrait of a French aristocratic woman hangs in a golden frame.",
+          "This exhibit showcases sixty-eight miniature rooms inserted into a wall at eye level. Each furnished room consists of three walls; the fourth wall is a glass pane through which museumgoers observe. The rooms and their furnishings were painstakingly created to scale at 1/12th their actual size, so that one inch in the exhibit correlates with one foot in real life. A couch, for example, is seven inches long, and 17 that is based on a seven-foot-long couch. Each room represents a distinctive style of European, American, or Asian interior design from the thirteenth to twentieth centuries.",
+          "The plainer rooms are more sparsely 18 furnished. Their architectural features, furnishings, and decorations are just as true to the periods they represent. One of my favorite rooms in the whole exhibit, in fact, is an 1885 summer kitchen. The room is simple but spacious, with a small sink and counter along one wall, a cast-iron wood stove and some hanging pots and pans against another wall, and 19 a small table under a window of the third wall. Aside from a few simple wooden chairs placed near the edges of the room, the floor is open and obviously well worn.",
+          "As I walked through the exhibit, I overheard a 20 visitors’ remark, “You know, that grandfather clock actually runs. Its glass door swings open, and the clock can be wound up.” 21 Dotted with pin-sized knobs, another visitor noticed my fascination with a tiny writing desk and its drawers. “All of those little drawers pull out. And you see that hutch? Can you believe it has a secret compartment?” Given the exquisite craftsmanship and level of detail I’d already seen, I certainly could.",
+          "Question 22 asks about the previous passage as a whole."
+        ],
+        "questions": [
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) For instance,",
+                  "C.) However,",
+                  "D.) Similarly,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) painter, Georges Seurat’s",
+                  "C.) painter Georges Seurat’s,",
+                  "D.) painter Georges Seurat’s"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) its tiniest;",
+                  "C.) its tiniest:",
+                  "D.) it’s tiniest,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "At this point, the writer is considering adding the following sentence. Some scholars argue that the excesses of King Louis XV’s reign contributed significantly to the conditions that resulted in the French Revolution. Should the writer make this addition here?",
+              "choices": [
+                  "A.) Yes, because it provides historical context for the Thorne Miniature Rooms exhibit.",
+                  "B.) Yes, because it explains why salons are often ornately decorated.",
+                  "C.) No, because it interrupts the paragraph’s description of the miniature salon.",
+                  "D.) No, because it implies that the interior designer of the salon had political motivations."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) legs, the couch and chairs",
+                  "C.) legs and",
+                  "D.) legs,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "Which choice gives a second supporting example that is most similar to the example already in the sentence?",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) a tea cup is about a quarter of an inch.",
+                  "C.) there are even tiny cushions on some.",
+                  "D.) household items are also on this scale."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "Which choice most effectively combines the sentences at the underlined portion?",
+              "choices": [
+                  "A.) furnished by their",
+                  "B.) furnished, but their",
+                  "C.) furnished: their",
+                  "D.) furnished, whereas"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "Which choice most closely matches the stylistic pattern established earlier in the sentence?",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) a small table is under the third wall’s window.",
+                  "C.) the third wall has a window and small table.",
+                  "D.) the third wall has a small table against it and a window."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) visitors remarking,",
+                  "C.) visitor remarked,",
+                  "D.) visitor remark,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) Another visitor, dotted with pin-sized knobs, noticed my fascination with a tiny writing desk and its drawers.",
+                  "C.) Another visitor dotted with pin-sized knobs noticed my fascination with a tiny writing desk and its drawers.",
+                  "D.) Another visitor noticed my fascination with a tiny writing desk and its drawers, dotted with pin-sized knobs."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 2,
+              "question-type": "",
+              "question": "Think about the previous passage as a whole as you answer question 22. To make the passage most logical, paragraph 2 should be placed",
+              "choices": [
+                  "A.) where it is now.",
+                  "B.) after paragraph 3.",
+                  "C.) after paragraph 4.",
+                  "D.) after paragraph 5."
+              ],
+              "answer": ""
+          }
+        ]
+      },
+      {
+        "passage": [
+          "Questions 23-33 are based on the following passage and supplementary material.",
+          "Environmentalist Otters",
+          "It has long been known that the sea otters 23 living along the West Coast of North America help keep kelp forests in their habitat healthy and vital. They do this by feeding on sea urchins and other herbivorous invertebrates that graze voraciously on kelp. With sea otters to keep the population of sea urchins in check, kelp forests can flourish. In fact, 24 two years or less of sea otters can completely eliminate sea urchins in a coastal area (see chart).",
+          "INSERT WRITING PASSAGE 3 IMAGE",
+          "Without sea otters present, 25 nevertheless, kelp forests run the danger of becoming barren stretches of coastal wasteland known as urchin barrens.",
+          "[1] What was less well-known, until recently at least, was how this relationship among sea otters, sea urchins, and kelp forests might help fight global warming. [2] The amount of carbon dioxide in the atmosphere has increased 40 percent 26 . [3] A recent study by two professors at the University of California, Santa Cruz, Chris Wilmers and James Estes, 27 suggests, that kelp forests protected by sea otters can absorb as much as twelve times the amount of carbon dioxide from the atmosphere as those where sea urchins are allowed to 28 devour the kelp. [4] Like 29 their terrestrial plant cousins, kelp removes carbon dioxide from the atmosphere, turning it into sugar fuel through photosynthesis, and releases oxygen back into the air. [5] Scientists knew this but did not recognize 30 how large a role they played in helping kelp forests to significantly decrease the amount of carbon dioxide in the atmosphere. [6] Far from making no difference to the ecosystem, the presence of otters was found to increase the carbon storage of kelp forests by 4.4 to 8.7 megatons annually, offsetting the amount of carbon dioxide emitted by three million to six million passenger cars each year. 31",
+          "Wilmers and Estes caution, however, that 32 having more otters will not automatically solve the problem of higher levels of carbon dioxide in the air. But they suggest that the presence of otters provides a good model of how carbon can be sequestered, 33 or removed; from the atmosphere through the management of animal populations. If ecologists can better understand what kinds of impacts animals might have on the environment, Wilmers contends, “there might be opportunities for win-win conservation scenarios, whereby animal species are protected or enhanced, and carbon gets sequestered.”",
+        ],
+        "questions": [
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) living along the West Coast of North America, they help",
+                  "C.) that live along the West Coast of North America and help to",
+                  "D.) that live along the West Coast of North America, where they help"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "Which choice offers an accurate interpretation of the data in the chart?",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) even two years or less of sea otter presence can reduce the sea urchin threat",
+                  "C.) kelp density increases proportionally as sea urchin density increases",
+                  "D.)  even after sea otters were present for ten years or more, kelp density was still lower than sea urchin density"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) however,",
+                  "C.) hence,",
+                  "D.) likewise,"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "At this point, the writer is considering adding the following information. since the start of the Industrial Revolution, resulting in a rise in global temperatures - Should the writer make this addition here?",
+              "choices": [
+                  "A.) Yes, because it establishes the relationship between the level of carbon dioxide in the atmosphere and global warming.",
+                  "B.) Yes, because it explains the key role sea otters, sea urchins, and kelp forests play in combating global warming.",
+                  "C.) No, because it contradicts the claim made in the previous paragraph that sea otters help keep kelp forests healthy.",
+                  "D.) No, because it mentions the Industrial Revolution, blurring the focus of the paragraph."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) suggests—that",
+                  "C.) suggests, “that",
+                  "D.) suggests that"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) dispatch",
+                  "C.) overindulge on",
+                  "D.) dispose of"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) they’re",
+                  "C.) its",
+                  "D.) it’s"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) how large a role that it played",
+                  "C.) how large a role sea otters played",
+                  "D.) that they played such a large role"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "Where is the most logical place in this paragraph to add the following sentence? What Wilmers and Estes discovered in their study, therefore, surprised them.",
+              "choices": [
+                  "A.)  After sentence 1",
+                  "B.)  After sentence 3",
+                  "C.)  After sentence 4",
+                  "D.)  After sentence 5"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) increasing the otter population",
+                  "C.) the otters multiplying",
+                  "D.) having more otters than other locations"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 3,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) or removed from,",
+                  "C.) or, removed from,",
+                  "D.) or removed, from"
+              ],
+              "answer": ""
+          }
+        ]
+      },
+      {
+        "passage": [
+          "Questions 34-44 are based on the following passage.",
+          "A Quick Fix in a Throwaway Culture",
+          "Planned obsolescence, a practice 34 at which products are designed to have a limited period of 35 usefulness, has been a cornerstone of manufacturing strategy for the past 80 years. This approach increases sales, but it also stands in 36 austere contrast to a time when goods were produced to be durable. Planned obsolescence wastes materials as well as energy in making and shipping new products. It also reinforces the belief that it is easier to replace goods than to mend them, as repair shops are rare and 37 repair methods are often specialized. In 2009, an enterprising movement, the Repair Café, challenged this widely accepted belief.",
+          "[1] More like a 38 fair then an actual café, the first Repair Café took place in Amsterdam, the Netherlands. [2] It was the brainchild of former journalist Martine Postma, 39 wanting to take a practical stand in a throwaway culture. [3] Her goals were 40 straightforward, however: reduce waste, maintain and perpetuate knowledge and skills, and strengthen community. [4] Participants bring all manner of damaged articles—clothing, appliances, furniture, and more—to be repaired by a staff of volunteer specialists including tailors, electricians, and carpenters. [5] Since the inaugural Repair Café, others have been hosted in theater foyers, community centers, hotels, and auditoriums. [6] While 41 they await for service, patrons can enjoy coffee and snacks and mingle with their neighbors in need. 42",
+          "Though only about 3 percent of the Netherlands’ municipal waste ends up in landfills, Repair Cafés still raise awareness about what may otherwise be mindless acts of waste by providing a venue for people to share and learn valuable skills that are in danger of being lost. 43 It is easy to classify old but fixable items as “junk” in an era that places great emphasis on the next big thing. In helping people consider how the goods they use on a daily basis work and are made, Repair Cafés restore a sense of relationship between human beings and material goods.",
+          "Though the concept remained a local trend at first, international Repair Cafés, all affiliated with the Dutch Repair Café via its website, have since arisen in France, Germany, South Africa, the United States, and other countries 44 on top of that. The original provides a central source for start-up tips and tools, as well as marketing advice to new Repair Cafés. As a result, the Repair Café has become a global network united by common ideals. Ironically, innovators are now looking back to old ways of doing things and applying them in today’s cities in an effort to transform the way people relate to and think about the goods they consume."
+        ],
+        "questions": [
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) from which",
+                  "C.) so that",
+                  "D.) whereby"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) usefulness—",
+                  "C.) usefulness;",
+                  "D.) usefulness"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) egregious",
+                  "C.) unmitigated",
+                  "D.) stark"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "Which choice provides information that best supports the claim made by this sentence?",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) obsolete goods can become collectible items.",
+                  "C.) no one knows whether something will fall into disrepair again.",
+                  "D.) new designs often have “bugs” that must be worked out."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) fair than",
+                  "C.) fare than",
+                  "D.) fair, then"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) whom wants",
+                  "C.) who wanted",
+                  "D.) she wanted"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) straightforward, therefore:",
+                  "C.) straightforward, nonetheless:",
+                  "D.)  straightforward:"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) awaiting",
+                  "C.) they waited",
+                  "D.)  waiting"
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "To make this paragraph most logical, sentence 5 should be placed",
+              "choices": [
+                  "A.) where it is now.",
+                  "B.) before sentence 1.",
+                  "C.) after sentence 3.",
+                  "D.) after sentence 6."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "At this point, the writer is considering adding the following sentence. As the number of corporate and service-based jobs has increased, the need for people who work with their hands has diminished. Should the writer make this addition here?",
+              "choices": [
+                  "A.) Yes, because it provides an example of specific repair skills being lost.",
+                  "B.) Yes, because it elaborates on the statistic about the Netherlands’ municipal waste.",
+                  "C.) No, because it blurs the paragraph’s focus by introducing a topic that is not further explained.",
+                  "D.) No, because it contradicts the claims made in the rest of the paragraph."
+              ],
+              "answer": ""
+          },
+          {
+              "passage-ref": 4,
+              "question-type": "",
+              "question": "",
+              "choices": [
+                  "A.) NO CHANGE",
+                  "B.) in addition.",
+                  "C.) likewise.",
+                  "D.) DELETE the underlined portion, and end the sentence with a period."
               ],
               "answer": ""
           }

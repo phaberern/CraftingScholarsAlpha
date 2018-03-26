@@ -201,178 +201,178 @@
               "img": "mathQ16.png",
               "question": "The table above summarizes the results of 200 law school graduates who took the bar exam. If one of the surveyed graduates who passed the bar exam is chosen at random for an interview, what is the probability that the person chosen did not take the review course?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) <sup>18</sup>&frasl;<sub>25</sub>",
+                  "B.) <sup>7</sup>&frasl;<sub>25</sub>",
+                  "C.) <sup>25</sup>&frasl;<sub>200</sub>",
+                  "D.) <sup>7</sup>&frasl;<sub>200</sub>"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
-              "question": "",
+              "question": "The atomic weight of an unknown element, in atomic mass units (amu), is approximately 20% less than that of calcium. The atomic weight of calcium is 40 amu. Which of the following best approximates the atomic weight, in amu, of the unknown element?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) 8",
+                  "B.) 20",
+                  "C.) 32",
+                  "D.) 48"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
-              "question": "",
+              "question": "A survey was taken of the value of homes in a county, and it was found that the mean home value was $165,000 and the median home value was $125,000. Which of the following situations could explain the difference between the mean and median home values in the county?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) The homes have values that are close to each other.",
+                  "B.) There are a few homes that are valued much less than the rest.",
+                  "C.) There are a few homes that are valued much more than the rest.",
+                  "D.) Many of the homes have values between $125,000 and $165,000."
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ19.png",
+              "question": "What is the median number of siblings for all the students surveyed?",
+              "choices": [
+                  "A.) 0",
+                  "B.) 1",
+                  "C.) 2",
+                  "D.) 3"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
-              "question": "",
+              "question": "Based on the survey data, which of the following most accurately compares the expected total number of students with 4 siblings at the two schools?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) The total number of students with 4 siblings is expected to be equal at the two schools.",
+                  "B.) The total number of students with 4 siblings at Lincoln School is expected to be 30 more than at Washington School.",
+                  "C.) The total number of students with 4 siblings at Washington School is expected to be 30 more than at Lincoln School.",
+                  "D.) The total number of students with 4 siblings at Washington School is expected to be 900 more than at Lincoln School."
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
-              "question": "",
+              "question": "A project manager estimates that a project will take <em>x</em> hours to complete, where <em>x</em> > 100. The goal is for the estimate to be within 10 hours of the time it will actually take to complete the project. If the manager meets the goal and it takes <em>y</em> hours to complete the project, which of the following inequalities represents the relationship between the estimated time and the actual completion time?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) <em>x</em> + <em>y</em> less than 10",
+                  "B.) <em>y</em> greater than <em>x</em> + 10",
+                  "C.) <em>y</em> less than <em>x</em> - 10",
+                  "D.) -10 less than <em>y</em> - <em>x</em> less than 10"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ22.png",
+              "question": "Which of the following expresses the square of the distance from the radio antenna in terms of the intensity of the radio signal and the power of the signal?",
+              "choices": [
+                  "A.) <img>",
+                  "B.) <img>",
+                  "C.) <img>",
+                  "D.) <img>"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
-              "question": "",
+              "question": "For the same signal emitted by a radio antenna, Observer A measures its intensity to be 16 times the intensity measured by Observer B. The distance of Observer A from the radio antenna is what fraction of the distance of Observer B from the radio antenna?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) <sup>1</sup>&frasl;<sub>4</sub>",
+                  "B.) <sup>1</sup>&frasl;<sub>16</sub>",
+                  "C.) <sup>1</sup>&frasl;<sub>64</sub>",
+                  "D.) <sup>1</sup>&frasl;<sub>256</sub>"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
-              "question": "",
+              "question": "<em>x</em><sup>2</sup> + <em>y</em><sup>2</sup> + 4<em>x</em> - 2<em>y</em> = -1<br>The equation of a circle in the <em>xy</em>-plane is shown above. What is the radius of the circle?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) 2",
+                  "B.) 3",
+                  "C.) 4",
+                  "D.) 9"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
+              "question": "The graph of the linear function <em>f</em> has intercepts at (<em>a</em>, 0) and (0,<em>b</em> ) in the <em>xy</em>-plane. If <em>a</em> + <em>b</em> = 0 and <em>a</em> ≠ <em>b</em>, which of the following is true about the slope of the graph of <em>f</em> ?",
+              "choices": [
+                  "A.) It is positive",
+                  "B.) It is negative",
+                  "C.) It equals zero",
+                  "D.) It is undefined"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ26.png",
               "question": "",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) III only ",
+                  "B.) I and II only",
+                  "C.) II and III only",
+                  "D.) I, II, and III"
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ27.png",
+              "question": "Two samples of water of equal mass are heated to 60 degrees Celsius (°C). One sample is poured into an insulated container, and the other sample is poured into a non-insulated container. The samples are then left for 70 minutes to cool in a room having a temperature of 25°C. The graph above shows the temperature of each sample at 10-minute intervals. Which of the following statements correctly compares the average rates at which the temperatures of the two samples change?",
+              "choices": [
+                  "A.) In every 10-minute interval, the magnitude of the rate of change of temperature of the insulated sample is greater than that of the non-insulated sample.",
+                  "B.) In every 10-minute interval, the magnitude of the rate of change of temperature of the non-insulated sample is greater than that of the insulated sample.",
+                  "C.) In the intervals from 0 to 10 minutes and from 10 to 20 minutes, the rates of change of temperature of the insulated sample are of greater magnitude, whereas in the intervals from 40 to 50 minutes and from 50 to 60 minutes, the rates of change of temperature of the non-insulated sample are of greater magnitude.",
+                  "D.) In the intervals from 0 to 10 minutes and from 10 to 20 minutes, the rates of change of temperature of the non-insulated sample are of greater magnitude, whereas in the intervals from 40 to 50 minutes and from 50 to 60 minutes, the rates of change of temperature of the insulated sample are of greater magnitude."
+              ],
+              "answer": ""
+          },
+          {
+              "question-type": "multiple choice",
+              "img": "mathQ28.png",
+              "question": "In the <em>xy</em>-plane above, <em>ABCD</em> is a square and point <em>E</em> is the center of the square. The coordinates of points <em>C</em> and <em>E</em> are (7, 2) and (1, 0), respectively. Which of the following is an equation of the line that passes through points <em>B</em> and <em>D</em> ?",
+              "choices": [
+                  "A.) <em>y</em> = -3<em>x</em> - 1",
+                  "B.) <em>y</em> = -3(<em>x</em> - 1)",
+                  "C.) <em>y</em> = -<sup>1</sup>&frasl;<sub>3</sub><em>x</em> + 4",
+                  "D.) <em>y</em> = -<sup>1</sup>&frasl;<sub>3</sub><em>x</em> - 1"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
               "img": "",
-              "question": "",
+              "question": "<em>y</em> = 3<br><em>y</em> = <em>ax</em><sup>2</sup> + <em>b</em><br>In the system of equations above, <em>a</em> and <em>b</em> are constants. For which of the following values of <em>a</em> and <em>b</em> does the system of equations have exactly two real solutions?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) <em>a</em> = -2, <em>b</em> = 2",
+                  "B.) <em>a</em> = -2, <em>b</em> = 4",
+                  "C.) <em>a</em> = 2, <em>b</em> = 4",
+                  "D.) <em>a</em> = 4, <em>b</em> = 3"
               ],
               "answer": ""
           },
           {
               "question-type": "multiple choice",
-              "img": "",
-              "question": "",
+              "img": "mathQ30.png",
+              "question": "The figure above shows a regular hexagon with sides of length <em>a</em> and a square with sides of length <em>a</em>. If the area of the hexagon is 384&radic; 3 square inches, what is the area, in square inches, of the square?",
               "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
-              ],
-              "answer": ""
-          },
-          {
-              "question-type": "multiple choice",
-              "img": "",
-              "question": "",
-              "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
-              ],
-              "answer": ""
-          },
-          {
-              "question-type": "multiple choice",
-              "img": "",
-              "question": "",
-              "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
-              ],
-              "answer": ""
-          },
-          {
-              "question-type": "multiple choice",
-              "img": "",
-              "question": "",
-              "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
-              ],
-              "answer": ""
-          },
-          {
-              "question-type": "multiple choice",
-              "img": "",
-              "question": "",
-              "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
-              ],
-              "answer": ""
-          },
-          {
-              "question-type": "multiple choice",
-              "img": "",
-              "question": "",
-              "choices": [
-                  "A.) ",
-                  "B.) ",
-                  "C.) ",
-                  "D.) "
+                  "A.) 256",
+                  "B.) 192",
+                  "C.) 64&radic;3",
+                  "D.) 16&radic;3"
               ],
               "answer": ""
           }
