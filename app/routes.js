@@ -1,3 +1,8 @@
+// data for our templates to render 
+var reading = require('../public/data/reading.json');
+var writing = require('../public/data/writing.json');
+var mathcalc = require('../public/data/mathcalc.json');
+var mathnocalc = require('../public/data/mathnocalc.json');
 
 module.exports = function(app, passport) {
 
@@ -8,7 +13,36 @@ module.exports = function(app, passport) {
     });
 
     app.get('/reading', function(req, res){
-        res.render('reading', {user: req.user});
+        if(req.isAuthenticated()){ 
+            console.log(reading);        
+            res.render('reading', {quiz: reading, user: req.user, message: req.flash('message')});                      
+        }else{
+            res.redirect('/');
+        }
+    });
+
+    app.get('/writing', function(req, res){
+        if(req.isAuthenticated()){
+            res.render('writing', {user: req.user, message: req.flash('message')});
+        }else{
+            res.redirect('/');
+        }
+    });
+
+    app.get('/mathcalc', function(req, res){
+        if(req.isAuthenticated()){
+            res.render('mathcalc', {user: req.user, message: req.flash('message')});
+        }else{
+            res.redirect('/');
+        }
+    });
+
+    app.get('/mathnocalc', function(req, res){
+        if(req.isAuthenticated()){
+            res.render('mathnocalc', {user: req.user, message: req.flash('message')});
+        }else{
+            res.redirect('/');
+        }
     });
 
     app.get('/login', function(req, res) {
@@ -24,12 +58,6 @@ module.exports = function(app, passport) {
     app.get('/logout', function(req, res) {
         req.logout();
         res.redirect('/');
-    });
-
-    app.get('/profile', isLoggedIn, function(req, res) {
-        res.render('home', {
-            user : req.user // get the user out of session and pass to template
-        });
     });
 
 //************************************** post routes ******************************************
