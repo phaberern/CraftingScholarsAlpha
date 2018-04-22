@@ -13,7 +13,7 @@
     "time_allowed": 2100,
     "answers": [],
     "resources": [],
-    "content": [
+    "content": 
       {
         "questions": [
           {
@@ -378,5 +378,4 @@
           }
         ]
       }
-    ]
 }

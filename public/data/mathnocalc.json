@@ -17,7 +17,7 @@
     {
         "questions": [
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "If 5 + 6 = 10 x , what is the value of 10 + 3 x ?",
             "choices": [
@@ -29,7 +29,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "x+y=0 <br> 3x - 2y = 10 <br> Which of the following ordered pairs (, ) x y satisfies the system of equations above?",
             "choices": [
@@ -41,7 +41,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "A landscaping company estimates the price of a job, in dollars, using the expression 60 + 12<em>nh</em>, where <em>n</em> is the number of landscapers who will be working and <em>h</em> is the total number of hours the job will take using <em>n</em> landscapers. Which of the following is the best interpretation of the number 12 in the expression?",
             "choices": [
@@ -53,7 +53,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "9<em>a</enm><sup>4</sup> + 12<em>a</em><sup>2</sup><em>b</em><sup>2</sup> + 4<em>b</em><sup>4</sup><br>Which of the following is equivalent to the expression shown above?",
             "choices": [
@@ -65,7 +65,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "mathNoCalcQ5.png",
             "question": "If <em>k</em> > 0 and <em>x</em> = 7 in the equation above, what is the value of <em>k</em> ?",
             "choices": [
@@ -77,7 +77,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "mathNoCalcQ6.png",
             "question": "In the <em>xy</em>-plane above, line <em>A</em> is parallel to line <em>k</em>. What is the value of <em>p</em> ?",
             "choices": [
@@ -89,7 +89,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "mathNoCalcQ7.png",
             "question": "",
             "choices": [
@@ -101,7 +101,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "<em>nA</em> = 360 <br> The measure <em>A</em>, in degrees, of an exterior angle of a regular polygon is related to the number of sides, <em>n</em>, of the polygon by the formula above. If the measure of an exterior angle of a regular polygon is greater than 50°, what is the greatest number of sides it can have?",
             "choices": [
@@ -113,7 +113,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "The graph of a line in the <em>xy</em>-plane has slope 2 and contains the point (1, 8). The graph of a second line passes through the points (1, 2) and (2, 1). If the two lines intersect at the point (, ) <em>a b</em> , what is the value of <em>a b</em> + ?",
             "choices": [
@@ -125,7 +125,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "Which of the following equations has a graph in the <em>xy</em>-plane for which <em>y</em> is always greater than or equal to −1 ?",
             "choices": [
@@ -137,7 +137,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "mathNoCalcQ11.png",
             "question": "",
             "choices": [
@@ -149,7 +149,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "<em>R</em> = <sup></sup>&frals;<sub></sub><br>A website uses the formula above to calculate a seller’s rating, <em>R</em>, based on the number of favorable reviews, <em>F</em>, and unfavorable reviews, <em>N</em>. Which of the following expresses the number of favorable reviews in terms of the other variables?",
             "choices": [
@@ -161,7 +161,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "What is the sum of all values of <em>m</em> that satisfy 2<em>m</em><sup>2</sup> - 16<em>m</em> + 8 = 0?",
             "choices": [
@@ -173,7 +173,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "A radioactive substance decays at an annual rate of 13 percent. If the initial amount of the substance is 325 grams, which of the following functions <em>f</em> models the remaining amount of the substance, in grams, <em>t</em> years later?",
             "choices": [
@@ -185,7 +185,7 @@
             "answer": ""
         },
         {
-            "question-type": "",
+            "question-type": "multiple choice",
             "img": "",
             "question": "The expression <sup>5<em>x</em> - 2</sup>&frasl;<sub><em>x</em> + 3</sub>",
             "choices": [

@@ -1,0 +1,42 @@
+<div class="container">
+    <div class="row">
+        <div class="section-intro">
+            <h1>{{quiz.name}}</h1>
+            {{#each quiz.directions}}
+                <p>{{this}}</p>
+            {{/each}}
+        </div>
+        <div class="math-notes">
+            {{#each quiz.notes}}
+                <p>{{this}}</p>
+            {{/each}}
+        </div>
+        <div class="section-content">          
+                {{#each quiz.content.questions}}
+                    {{#if this.question-type = "multiple choice"}}
+                        <div class="question" data-question-type="{{this.question-type}}">
+                            <p class="question-question">{{this.question}}</p>
+                            {{#if this.img}}
+                                <img src="./img/math/{{this.img}}" alt="N/A" class="question-img">
+                            {{/if}}
+                            {{#each this.choices}}
+                                <div class="multiple-choice answer"><input type="radio" name="">{{this}}</div>
+                            {{/each}}
+                        </div>
+                    {{else}}
+                        <div class="question" data-question-type="{{this.question-type}}">
+                            <p class="question-question">{{this.question}}</p>
+                            {{#if this.img}}
+                                <img src="./img/math/{{this.img}}" alt="N/A" class="question-img">
+                            {{/if}}
+                        </div>
+                    {{/if}}
+                {{/each}}        
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div id="timer"></div>
+        </div>
+    </div>
+</div>

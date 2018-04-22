@@ -31,7 +31,7 @@ module.exports = function(app, passport) {
 
     app.get('/mathcalc', function(req, res){
         if(req.isAuthenticated()){
-            res.render('mathcalc', {quiz: mathcalc, user: req.user, message: req.flash('message')});
+            res.render('math', {quiz: mathcalc, user: req.user, message: req.flash('message')});
         }else{
             res.redirect('/');
         }
@@ -39,7 +39,7 @@ module.exports = function(app, passport) {
 
     app.get('/mathnocalc', function(req, res){
         if(req.isAuthenticated()){
-            res.render('mathnocalc', {quiz: mathnocalc, user: req.user, message: req.flash('message')});
+            res.render('math', {quiz: mathnocalc, user: req.user, message: req.flash('message')});
         }else{
             res.redirect('/');
         }
