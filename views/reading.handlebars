@@ -1,22 +1,24 @@
 <div class="container">
     <div class="row">
-        <div id="quiz">
-            <div class="row" id="section-intro">
-                <div class="col-md-12">
-                    <div id="directions"></div>
-                </div>
-            </div>
-            <div class="row">
-                <div id="content">
-                    
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div id="footer">
-                    </div>
-                </div>
-                <div id="timer"></div>
-            </div>
+        <div class="section-intro">
+            <h1>{{quiz.name}}</h1>
+            {{#each quiz.directions}}
+                <p>{{this}}</p>
+            {{/each}}
+        </div>
+        <div class="section-content">
+            {{#each quiz.content}}
+                <div>
+                    {{#each this.passage}}
+                        <p>{{this}}</p>
+                    {{/each}}
+                </div>                
+            {{/each}}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            
+        </div>
     </div>
 </div>
