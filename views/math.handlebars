@@ -8,30 +8,24 @@
         </div>
         <div class="math-notes">
             {{#each quiz.notes}}
-                <p>{{this}}</p>
+                <p>{{{this}}}</p>
             {{/each}}
         </div>
-        <div class="section-content">          
+        <div class="section-content">
+            <form action="/" method="POST">          
                 {{#each quiz.content.questions}}
-                    {{#if this.question-type = "multiple choice"}}
                         <div class="question" data-question-type="{{this.question-type}}">
-                            <p class="question-question">{{this.question}}</p>
+                            <p class="question-question">{{{this.question}}}</p>
                             {{#if this.img}}
                                 <img src="./img/math/{{this.img}}" alt="N/A" class="question-img">
                             {{/if}}
                             {{#each this.choices}}
-                                <div class="multiple-choice answer"><input type="radio" name="">{{this}}</div>
+                                <div class="multiple-choice answer"><input type="radio" name="q{{@../index}}" value="{{@index}}">{{{this}}}</div>
                             {{/each}}
                         </div>
-                    {{else}}
-                        <div class="question" data-question-type="{{this.question-type}}">
-                            <p class="question-question">{{this.question}}</p>
-                            {{#if this.img}}
-                                <img src="./img/math/{{this.img}}" alt="N/A" class="question-img">
-                            {{/if}}
-                        </div>
-                    {{/if}}
-                {{/each}}        
+                {{/each}} 
+                <input type="submit" value="Submit">
+            </form>       
         </div>
     </div>
     <div class="row">

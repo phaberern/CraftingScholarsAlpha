@@ -21,6 +21,13 @@ $('document').ready(function() {
         runReport();
     });
 
+    // strike through answer choice
+    (function strikeThroughAnswer(){
+        $(document).on('click', '.mark-wrong', function() {
+            $(this).siblings().toggleClass('mark-answer-wrong');
+        });
+      })();
+
     //***************************** function delcarations *************************
 
     // functions for the timer______________________________________________________

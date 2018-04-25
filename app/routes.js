@@ -23,7 +23,7 @@ module.exports = function(app, passport) {
 
     app.get('/writing', function(req, res){
         if(req.isAuthenticated()){
-            res.render('writing', {quiz: writing, user: req.user, message: req.flash('message')});
+            res.render('reading', {quiz: writing, user: req.user, message: req.flash('message')});
         }else{
             res.redirect('/');
         }
@@ -75,6 +75,12 @@ module.exports = function(app, passport) {
         failureRedirect : '/', // redirect back to the signup page if there is an error
         failureFlash : true // allow flash messages
     }));
+
+    // catch quiz form submissions 
+    app.post('/', function(req, res){
+        console.log(req.body);
+        res.render('home', {user: req.user, message: req.flash.message});
+    });
 
 };
 
