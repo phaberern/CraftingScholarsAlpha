@@ -78,7 +78,7 @@ module.exports = function(app, passport) {
 
     // catch quiz form submissions 
     app.post('/', function(req, res){
-        console.log(req.body);
+        console.log(req);
         res.render('home', {user: req.user, message: req.flash.message});
     });
 
