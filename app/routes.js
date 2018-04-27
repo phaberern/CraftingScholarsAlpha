@@ -3,6 +3,9 @@ var reading = require('../public/data/reading.json');
 var writing = require('../public/data/writing.json');
 var mathcalc = require('../public/data/mathcalc.json');
 var mathnocalc = require('../public/data/mathnocalc.json');
+// require scorring engines for each section
+var mathcalcEngine = require('./scorring/mathcalcEngine');
+var readingEngine = require('./scorring/readingEngine');
 
 module.exports = function(app, passport) {
 
@@ -77,8 +80,23 @@ module.exports = function(app, passport) {
     }));
 
     // catch quiz form submissions 
-    app.post('/', function(req, res){
-        console.log(req);
+    app.post('/reading', function(req, res){
+        readingEngine.process(req);
+        res.render('home', {user: req.user, message: req.flash.message});
+    });
+
+    app.post('/writing', function(req, res){
+        writingEngine.process(req);
+        res.render('home', {user: req.user, message: req.flash.message});
+    });
+
+    app.post('/mathcalc', function(req, res){
+        mathcalcEngine.process(req);        
+        res.render('home', {user: req.user, message: req.flash.message});
+    });
+
+    app.post('/mathnocalc', function(req, res){
+        mathnocalcEngine.process(req);        
         res.render('home', {user: req.user, message: req.flash.message});
     });
 

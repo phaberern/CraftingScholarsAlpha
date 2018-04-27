@@ -1,5 +1,6 @@
 {
-    "name": "math",
+    "display-name":"Math Section (No Calculator)",
+    "name": "mathnocalc",
     "directions": [
         "For questions 1-15, solve each problem, choose the best answer from the choices provided, and fill in the corresponding circle on your answer sheet. For questions 16-20, solve the problem and enter your answer in the grid on the answer sheet. Please refer to the directions before question 16 on how to enter your answers in the grid. You may use any available space in your test booklet for scratch work."
     ],

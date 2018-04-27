@@ -1,12 +1,12 @@
 <div class="container">
     <div class="row">
         <div class="section-intro">
-            <h1>{{quiz.name}}</h1>
+            <h1>{{quiz.display-name}}</h1>
             {{#each quiz.directions}}
                 <p>{{this}}</p>
             {{/each}}
         </div>
-        <form action="/" method="POST">
+        <form action="/{{quiz.name}}" method="POST">
         {{#each quiz.content}}
         <div class="section-content">      
                 <div class="passage-content">
@@ -19,7 +19,7 @@
                         <div class="question">
                             <p class="question-question">{{this.question}}</p>
                             {{#each this.choices}}
-                            <div class="multiple-choice-answer"><input type="radio" name="passage-{{../passage-ref}}-q{{@../index}}" value="{{@index}}"><span class="answer-choice-text">{{this}}</span><sup class="mark-wrong">X</sup></div>
+                            <div class="multiple-choice-answer"><input type="radio" name="passage-{{../passage-ref}}-q{{@../index}}" data-passage={{../passage-ref}} value="{{@index}}"><span class="answer-choice-text">{{this}}</span><sup class="mark-wrong">X</sup></div>
                             {{/each}}
                         </div>
                     {{/each}}                                        

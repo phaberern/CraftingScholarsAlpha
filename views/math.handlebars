@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row">
         <div class="section-intro">
-            <h1>{{quiz.name}}</h1>
+            <h1>{{quiz.display-name}}</h1>
             {{#each quiz.directions}}
                 <p>{{this}}</p>
             {{/each}}
@@ -12,7 +12,7 @@
             {{/each}}
         </div>
         <div class="section-content">
-            <form action="/" method="POST">          
+            <form action="/{{quiz.name}}" method="POST">          
                 {{#each quiz.content.questions}}
                         <div class="question" data-question-type="{{this.question-type}}">
                             <p class="question-question">{{{this.question}}}</p>
