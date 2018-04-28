@@ -10,14 +10,15 @@
             {{#each quiz.notes}}
                 <p>{{{this}}}</p>
             {{/each}}
+            <hr>
         </div>
-        <div class="section-content">
+        <div class="text-left col-md-5 section-content">
             <form action="/{{quiz.name}}" method="POST">          
                 {{#each quiz.content.questions}}
                         <div class="question" data-question-type="{{this.question-type}}">
-                            <p class="question-question">{{{this.question}}}</p>
+                            <p class="question-question">{{this.question-number}}. {{{this.question}}}</p>
                             {{#if this.img}}
-                                <img src="./img/math/{{this.img}}" alt="N/A" class="question-img">
+                                <img src="./img/math/{{this.img}}" alt="N/A" class="math-question-img">
                             {{/if}}
                             {{#each this.choices}}
                                 <div class="multiple-choice answer"><input type="radio" name="q{{@../index}}" value="{{@index}}">{{{this}}}</div>

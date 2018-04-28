@@ -18,6 +18,7 @@
       {
         "questions": [
           {
+            "question-number":1,
               "question-type": "multiple choice",
               "img": "",
               "question": "A musician has a new song available for downloading or streaming. The musician earns $0.09 each time the song is downloaded and $0.002 each time the song is streamed. Which of the following expressions represents the amount, in dollars, that the musician earns if the song is downloaded <em>d</em> times and streamed <em>s</em> times?",
@@ -30,6 +31,7 @@
               "answer": ""
           },
           {
+            "question-number":2,
               "question-type": "multiple choice",
               "img": "",
               "question": "A quality control manager at a factory selects 7 lightbulbs at random for inspection out of every 400 lightbulbs produced. At this rate, how many lightbulbs will be inspected if the factory produces 20,000 lightbulbs?",
@@ -42,6 +44,7 @@
               "answer": ""
           },
           {
+            "question-number":3,
               "question-type": "multiple choice",
               "img": "",
               "question": "<em>l</em> = 24 + 3.5<em>m</em><br>One end of a spring is attached to a ceiling. When an object of mass <em>m</em> kilograms is attached to the other end of the spring, the spring stretches to a length of <em>l</em> centimeters as shown in the equation above. What is <em>m</em> when <em>l</em> is 73 ?",
@@ -54,6 +57,7 @@
               "answer": ""
           },
           {
+            "question-number":4,
               "question-type": "multiple choice",
               "img": "",
               "question": "How much money will the performer earn when 20 people attend a performance?",
@@ -66,6 +70,7 @@
               "answer": ""
           },
           {
+            "question-number":5,
               "question-type": "multiple choice",
               "img": "",
               "question": "The performer uses 43% of the money earned to pay the costs involved in putting on each performance. The rest of the money earned is the performer’s profit. What is the profit the performer makes at a performance where 8 people attend?",
@@ -78,6 +83,7 @@
               "answer": ""
           },
           {
+            "question-number":6,
               "question-type": "multiple choice",
               "img": "",
               "question": "When 4 times the number <em>x</em> is added to 12, the result is 8. What number results when 2 times <em>x</em> is added to 7 ?",
@@ -90,6 +96,7 @@
               "answer": ""
           },
           {
+            "question-number":7,
               "question-type": "multiple choice",
               "img": "",
               "question": "<em>y</em> = <em>x</em><sup>2</sup> - 6<em>x</em> + 8<br>The equation above represents a parabola in the <em>xy</em>-plane. Which of the following equivalent forms of the equation displays the <em>x</em>-intercepts of the parabola as constants or coefficients?",
@@ -102,6 +109,7 @@
               "answer": ""
           },
           {
+            "question-number":8,
               "question-type": "multiple choice",
               "img": "",
               "question": "In a video game, each player starts the game with <em>k</em> points and loses 2 points each time a task is not completed. If a player who gains no additional points and fails to complete 100 tasks has a score of 200 points, what is the value of <em>k</em> ?",
@@ -114,6 +122,7 @@
               "answer": ""
           },
           {
+            "question-number":9,
               "question-type": "multiple choice",
               "img": "",
               "question": "A worker uses a forklift to move boxes that weigh either 40 pounds or 65 pounds each. Let <em>x</em> be the number of 40-pound boxes and <em>y</em> be the number of 65-pound boxes. The forklift can carry up to either 45 boxes or a weight of 2,400 pounds. Which of the following systems of inequalities represents this relationship?",
@@ -126,6 +135,7 @@
               "answer": ""
           },
           {
+            "question-number":10,
               "question-type": "multiple choice",
               "img": "",
               "question": "A function <em>f</em> satisfies <em>f</em>(2) = 3 and <em>f</em>(3) = 5. A function <em>g</em> satisfies <em>g</em>(3) = 2 and <em>g</em>(5) = 6. What is the value of <em>fg</em>((3)) ?",
@@ -138,6 +148,7 @@
               "answer": ""
           },
           {
+            "question-number":11,
               "question-type": "multiple choice",
               "img": "mathQ11.png",
               "question": "Tony is planning to read a novel. The table above shows information about the novel, Tony’s reading speed, and the amount of time he plans to spend reading the novel each day. If Tony reads at the rates given in the table, which of the following is closest to the number of days it would take Tony to read the entire novel?",
@@ -150,6 +161,7 @@
               "answer": ""
           },
           {
+            "question-number":12,
               "question-type": "multiple choice",
               "img": "",
               "question": "On January 1, 2000, there were 175,000 tons of trash in a landfill that had a capacity of 325,000 tons. Each year since then, the amount of trash in the landfill increased by 7,500 tons. If <em>y</em> represents the time, in years, after January 1, 2000, which of the following inequalities describes the set of years where the landfill is at or above capacity?",
@@ -162,6 +174,7 @@
               "answer": ""
           },
           {
+            "question-number":13,
               "question-type": "multiple choice",
               "img": "",
               "question": "A researcher conducted a survey to determine whether people in a certain large town prefer watching sports on television to attending the sporting event. The researcher asked 117 people who visited a local restaurant on a Saturday, and 7 people refused to respond. Which of the following factors makes it least likely that a reliable conclusion can be drawn about the sports-watching preferences of all people in the town?",
@@ -174,6 +187,7 @@
               "answer": ""
           },
           {
+            "question-number":14,
               "question-type": "multiple choice",
               "img": "mathQ14.png",
               "question": "According to the line of best fit in the scatterplot above, which of the following best approximates the year in which the number of miles traveled by air passengers in Country X was estimated to be 550 billion?",
@@ -186,6 +200,7 @@
               "answer": ""
           },
           {
+            "question-number":15,
               "question-type": "multiple choice",
               "img": "",
               "question": "The distance traveled by Earth in one orbit around the Sun is about 580,000,000 miles. Earth makes one complete orbit around the Sun in one year. Of the following, which is closest to the average speed of Earth, in miles per hour, as it orbits the Sun?",
@@ -198,6 +213,7 @@
               "answer": ""
           },
           {
+            "question-number":16,
               "question-type": "multiple choice",
               "img": "mathQ16.png",
               "question": "The table above summarizes the results of 200 law school graduates who took the bar exam. If one of the surveyed graduates who passed the bar exam is chosen at random for an interview, what is the probability that the person chosen did not take the review course?",
@@ -210,6 +226,7 @@
               "answer": ""
           },
           {
+            "question-number":17,
               "question-type": "multiple choice",
               "img": "",
               "question": "The atomic weight of an unknown element, in atomic mass units (amu), is approximately 20% less than that of calcium. The atomic weight of calcium is 40 amu. Which of the following best approximates the atomic weight, in amu, of the unknown element?",
@@ -222,6 +239,7 @@
               "answer": ""
           },
           {
+            "question-number":18,
               "question-type": "multiple choice",
               "img": "",
               "question": "A survey was taken of the value of homes in a county, and it was found that the mean home value was $165,000 and the median home value was $125,000. Which of the following situations could explain the difference between the mean and median home values in the county?",
@@ -234,6 +252,7 @@
               "answer": ""
           },
           {
+            "question-number":19,
               "question-type": "multiple choice",
               "img": "mathQ19.png",
               "question": "What is the median number of siblings for all the students surveyed?",
@@ -246,6 +265,7 @@
               "answer": ""
           },
           {
+            "question-number":20,
               "question-type": "multiple choice",
               "img": "",
               "question": "Based on the survey data, which of the following most accurately compares the expected total number of students with 4 siblings at the two schools?",
@@ -258,6 +278,7 @@
               "answer": ""
           },
           {
+            "question-number":21,
               "question-type": "multiple choice",
               "img": "",
               "question": "A project manager estimates that a project will take <em>x</em> hours to complete, where <em>x</em> > 100. The goal is for the estimate to be within 10 hours of the time it will actually take to complete the project. If the manager meets the goal and it takes <em>y</em> hours to complete the project, which of the following inequalities represents the relationship between the estimated time and the actual completion time?",
@@ -270,6 +291,7 @@
               "answer": ""
           },
           {
+            "question-number":22,
               "question-type": "multiple choice",
               "img": "mathQ22.png",
               "question": "Which of the following expresses the square of the distance from the radio antenna in terms of the intensity of the radio signal and the power of the signal?",
@@ -282,6 +304,7 @@
               "answer": ""
           },
           {
+            "question-number":23,
               "question-type": "multiple choice",
               "img": "",
               "question": "For the same signal emitted by a radio antenna, Observer A measures its intensity to be 16 times the intensity measured by Observer B. The distance of Observer A from the radio antenna is what fraction of the distance of Observer B from the radio antenna?",
@@ -294,6 +317,7 @@
               "answer": ""
           },
           {
+            "question-number":24,
               "question-type": "multiple choice",
               "img": "",
               "question": "<em>x</em><sup>2</sup> + <em>y</em><sup>2</sup> + 4<em>x</em> - 2<em>y</em> = -1<br>The equation of a circle in the <em>xy</em>-plane is shown above. What is the radius of the circle?",
@@ -306,6 +330,7 @@
               "answer": ""
           },
           {
+            "question-number":25,
               "question-type": "multiple choice",
               "img": "",
               "question": "The graph of the linear function <em>f</em> has intercepts at (<em>a</em>, 0) and (0,<em>b</em> ) in the <em>xy</em>-plane. If <em>a</em> + <em>b</em> = 0 and <em>a</em> ≠ <em>b</em>, which of the following is true about the slope of the graph of <em>f</em> ?",
@@ -318,6 +343,7 @@
               "answer": ""
           },
           {
+            "question-number":26,
               "question-type": "multiple choice",
               "img": "mathQ26.png",
               "question": "",
@@ -330,6 +356,7 @@
               "answer": ""
           },
           {
+            "question-number":27,
               "question-type": "multiple choice",
               "img": "mathQ27.png",
               "question": "Two samples of water of equal mass are heated to 60 degrees Celsius (°C). One sample is poured into an insulated container, and the other sample is poured into a non-insulated container. The samples are then left for 70 minutes to cool in a room having a temperature of 25°C. The graph above shows the temperature of each sample at 10-minute intervals. Which of the following statements correctly compares the average rates at which the temperatures of the two samples change?",
@@ -342,6 +369,7 @@
               "answer": ""
           },
           {
+            "question-number":28,
               "question-type": "multiple choice",
               "img": "mathQ28.png",
               "question": "In the <em>xy</em>-plane above, <em>ABCD</em> is a square and point <em>E</em> is the center of the square. The coordinates of points <em>C</em> and <em>E</em> are (7, 2) and (1, 0), respectively. Which of the following is an equation of the line that passes through points <em>B</em> and <em>D</em> ?",
@@ -354,6 +382,7 @@
               "answer": ""
           },
           {
+            "question-number":29,
               "question-type": "multiple choice",
               "img": "",
               "question": "<em>y</em> = 3<br><em>y</em> = <em>ax</em><sup>2</sup> + <em>b</em><br>In the system of equations above, <em>a</em> and <em>b</em> are constants. For which of the following values of <em>a</em> and <em>b</em> does the system of equations have exactly two real solutions?",
@@ -366,6 +395,7 @@
               "answer": ""
           },
           {
+            "question-number":30,
               "question-type": "multiple choice",
               "img": "mathQ30.png",
               "question": "The figure above shows a regular hexagon with sides of length <em>a</em> and a square with sides of length <em>a</em>. If the area of the hexagon is 384&radic; 3 square inches, what is the area, in square inches, of the square?",

@@ -9,23 +9,24 @@
         <form action="/{{quiz.name}}" method="POST">
         {{#each quiz.content}}
         <div class="section-content">      
-                <div class="passage-content">
+                <div class="col-md-8 passage-container">
                     {{#each this.passage}}
                         <p>{{this}}</p>
                     {{/each}}
                 </div>
-                <div class="passage-questions">
+                <div class="col-md-4 text-left passage-questions">
                     {{#each this.questions}}
                         <div class="question">
-                            <p class="question-question">{{this.question}}</p>
+                            <p class="question-question">{{this.question-number}}. {{this.question}}</p>
                             {{#each this.choices}}
-                            <div class="multiple-choice-answer"><input type="radio" name="passage-{{../passage-ref}}-q{{@../index}}" data-passage={{../passage-ref}} value="{{@index}}"><span class="answer-choice-text">{{this}}</span><sup class="mark-wrong">X</sup></div>
+                            <div class="multiple-choice-answer"><input type="radio" name={{../question-number}} value="{{@index}}"><span class="answer-choice-text">{{this}}</span><sup class="mark-wrong">X</sup></div>
                             {{/each}}
                         </div>
                     {{/each}}                                        
                 </div>                      
         </div>
         {{/each}}
+            <input type="hidden" name="timer" value="{{quiz.time_allowed}}">
             <input type="submit" value="Submit">
         </form>
     </div>

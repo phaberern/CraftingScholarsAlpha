@@ -20,6 +20,7 @@
         ],
         "questions": [
           {
+              "question-number":1,
               "passage-ref": 1,
               "question-type": "",
               "question": "",
@@ -32,6 +33,7 @@
               "answer": ""
           },
           {
+            "question-number":2,
               "passage-ref": 1,
               "question-type": "",
               "question": "",
@@ -44,6 +46,7 @@
               "answer": ""
           },
           {
+            "question-number":3,
               "passage-ref": 1,
               "question-type": "",
               "question": "",
@@ -56,6 +59,7 @@
               "answer": ""
           },
           {
+            "question-number":4,
               "passage-ref": 1,
               "question-type": "",
               "question": "At this point, the writer is considering adding the following information. —e-books, audio and video materials, and online journals— Should the writer make this addition here?",
@@ -68,6 +72,7 @@
               "answer": ""
           },
           {
+            "question-number":5,
               "passage-ref": 1,
               "question-type": "",
               "question": "",
@@ -80,6 +85,7 @@
               "answer": ""
           },
           {
+            "question-number":6,
               "passage-ref": 1,
               "question-type": "",
               "question": "",
@@ -92,6 +98,7 @@
               "answer": ""
           },
           {
+            "question-number":7,
               "passage-ref": 1,
               "question-type": "",
               "question": "Which choice most effectively combines the underlined sentences?",
@@ -104,6 +111,7 @@
               "answer": ""
           },
           {
+            "question-number":8,
               "passage-ref": 1,
               "question-type": "",
               "question": "",
@@ -116,6 +124,7 @@
               "answer": ""
           },
           {
+            "question-number":9,
               "passage-ref": 1,
               "question-type": "",
               "question": "Which choice most effectively sets up the examples given at the end of the sentence?",
@@ -128,6 +137,7 @@
               "answer": ""
           },
           {
+            "question-number":10,
               "passage-ref": 1,
               "question-type": "",
               "question": "",
@@ -140,6 +150,7 @@
               "answer": ""
           },
           {
+            "question-number":11,
               "passage-ref": 1,
               "question-type": "",
               "question": "Which choice most clearly ends the passage with a restatement of the writer’s primary claim?",
@@ -166,6 +177,7 @@
         ],
         "questions": [
           {
+            "question-number":12,
               "passage-ref": 2,
               "question-type": "",
               "question": "",
@@ -178,6 +190,7 @@
               "answer": ""
           },
           {
+            "question-number":13,
               "passage-ref": 2,
               "question-type": "",
               "question": "",
@@ -190,6 +203,7 @@
               "answer": ""
           },
           {
+            "question-number":14,
               "passage-ref": 2,
               "question-type": "",
               "question": "",
@@ -202,6 +216,7 @@
               "answer": ""
           },
           {
+            "question-number":15,
               "passage-ref": 2,
               "question-type": "",
               "question": "At this point, the writer is considering adding the following sentence. Some scholars argue that the excesses of King Louis XV’s reign contributed significantly to the conditions that resulted in the French Revolution. Should the writer make this addition here?",
@@ -214,6 +229,7 @@
               "answer": ""
           },
           {
+            "question-number":16,
               "passage-ref": 2,
               "question-type": "",
               "question": "",
@@ -226,6 +242,7 @@
               "answer": ""
           },
           {
+            "question-number":17,
               "passage-ref": 2,
               "question-type": "",
               "question": "Which choice gives a second supporting example that is most similar to the example already in the sentence?",
@@ -238,6 +255,7 @@
               "answer": ""
           },
           {
+            "question-number":18,
               "passage-ref": 2,
               "question-type": "",
               "question": "Which choice most effectively combines the sentences at the underlined portion?",
@@ -250,6 +268,7 @@
               "answer": ""
           },
           {
+            "question-number":19,
               "passage-ref": 2,
               "question-type": "",
               "question": "Which choice most closely matches the stylistic pattern established earlier in the sentence?",
@@ -262,6 +281,7 @@
               "answer": ""
           },
           {
+            "question-number":20,
               "passage-ref": 2,
               "question-type": "",
               "question": "",
@@ -274,6 +294,7 @@
               "answer": ""
           },
           {
+            "question-number":21,
               "passage-ref": 2,
               "question-type": "",
               "question": "",
@@ -286,6 +307,7 @@
               "answer": ""
           },
           {
+            "question-number":22,
               "passage-ref": 2,
               "question-type": "",
               "question": "Think about the previous passage as a whole as you answer question 22. To make the passage most logical, paragraph 2 should be placed",
@@ -311,6 +333,7 @@
         ],
         "questions": [
           {
+            "question-number":23,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -323,6 +346,7 @@
               "answer": ""
           },
           {
+            "question-number":24,
               "passage-ref": 3,
               "question-type": "",
               "question": "Which choice offers an accurate interpretation of the data in the chart?",
@@ -335,6 +359,7 @@
               "answer": ""
           },
           {
+            "question-number":25,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -347,6 +372,7 @@
               "answer": ""
           },
           {
+            "question-number":26,
               "passage-ref": 3,
               "question-type": "",
               "question": "At this point, the writer is considering adding the following information. since the start of the Industrial Revolution, resulting in a rise in global temperatures - Should the writer make this addition here?",
@@ -359,6 +385,7 @@
               "answer": ""
           },
           {
+            "question-number":27,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -371,6 +398,7 @@
               "answer": ""
           },
           {
+            "question-number":28,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -383,6 +411,7 @@
               "answer": ""
           },
           {
+            "question-number":29,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -395,6 +424,7 @@
               "answer": ""
           },
           {
+            "question-number":30,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -407,6 +437,7 @@
               "answer": ""
           },
           {
+            "question-number":31,
               "passage-ref": 3,
               "question-type": "",
               "question": "Where is the most logical place in this paragraph to add the following sentence? What Wilmers and Estes discovered in their study, therefore, surprised them.",
@@ -419,6 +450,7 @@
               "answer": ""
           },
           {
+            "question-number":32,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -431,6 +463,7 @@
               "answer": ""
           },
           {
+            "question-number":33,
               "passage-ref": 3,
               "question-type": "",
               "question": "",
@@ -455,6 +488,7 @@
         ],
         "questions": [
           {
+            "question-number":34,
               "passage-ref": 4,
               "question-type": "",
               "question": "",
@@ -467,6 +501,7 @@
               "answer": ""
           },
           {
+            "question-number":35,
               "passage-ref": 4,
               "question-type": "",
               "question": "",
@@ -479,6 +514,7 @@
               "answer": ""
           },
           {
+            "question-number":36,
               "passage-ref": 4,
               "question-type": "",
               "question": "",
@@ -491,6 +527,7 @@
               "answer": ""
           },
           {
+            "question-number":37,
               "passage-ref": 4,
               "question-type": "",
               "question": "Which choice provides information that best supports the claim made by this sentence?",
@@ -503,6 +540,7 @@
               "answer": ""
           },
           {
+            "question-number":38,
               "passage-ref": 4,
               "question-type": "",
               "question": "",
@@ -515,6 +553,7 @@
               "answer": ""
           },
           {
+            "question-number":39,
               "passage-ref": 4,
               "question-type": "",
               "question": "",
@@ -527,6 +566,7 @@
               "answer": ""
           },
           {
+            "question-number":40,
               "passage-ref": 4,
               "question-type": "",
               "question": "",
@@ -539,6 +579,7 @@
               "answer": ""
           },
           {
+            "question-number":41,
               "passage-ref": 4,
               "question-type": "",
               "question": "",
@@ -551,6 +592,7 @@
               "answer": ""
           },
           {
+            "question-number":42,
               "passage-ref": 4,
               "question-type": "",
               "question": "To make this paragraph most logical, sentence 5 should be placed",
@@ -563,6 +605,7 @@
               "answer": ""
           },
           {
+            "question-number":43,
               "passage-ref": 4,
               "question-type": "",
               "question": "At this point, the writer is considering adding the following sentence. As the number of corporate and service-based jobs has increased, the need for people who work with their hands has diminished. Should the writer make this addition here?",
@@ -575,6 +618,7 @@
               "answer": ""
           },
           {
+            "question-number":44,
               "passage-ref": 4,
               "question-type": "",
               "question": "",

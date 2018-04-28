@@ -18,6 +18,7 @@
         ],
         "questions": [
         {
+            "question-number":1,
             "passage-ref": 1,
             "question-type": "",
             "question": "Which choice best summarizes the passage?",
@@ -30,6 +31,7 @@
             "answer": "a"
         },
         {
+            "question-number":2,
             "passage-ref": 1,
             "question-type": "",
             "question": "The main purpose of the opening sentence of the passage is to",
@@ -42,6 +44,7 @@
             "answer": "a"
         },
         {
+            "question-number":3,
             "passage-ref": 1,
             "question-type": "",
             "question": "During the course of the first paragraph, the narrator’s focus shifts from",
@@ -54,6 +57,7 @@
             "answer": "a"
         },
         {
+            "question-number":4,
             "passage-ref": 1,
             "question-type": "",
             "question": "The references to “shade” and “darkness” at the end of the first paragraph mainly have which effect?",
@@ -66,6 +70,7 @@
             "answer": "a"
         },
         {
+            "question-number":5,
             "passage-ref": 1,
             "question-type": "",
             "question": "The passage indicates that Edward Crimsworth’s behavior was mainly caused by his",
@@ -78,6 +83,7 @@
             "answer": "a"
         },
         {
+            "question-number":6,
             "passage-ref": 1,
             "question-type": "",
             "question": "The passage indicates that when the narrator began working for Edward Crimsworth, he viewed Crimsworth as a",
@@ -90,6 +96,7 @@
             "answer": "a"
         },
         {
+            "question-number":7,
             "passage-ref": 1,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -102,6 +109,7 @@
             "answer": "a"
         },
         {
+            "question-number":8,
             "passage-ref": 1,
             "question-type": "",
             "question": "At the end of the second paragraph, the comparisons of abstract qualities to a lynx and a snake mainly have the effect of",
@@ -114,6 +122,7 @@
             "answer": "a"
         },
         {
+            "question-number":9,
             "passage-ref": 1,
             "question-type": "",
             "question": "The passage indicates that, after a long day of work, the narrator sometimes found his living quarters to be",
@@ -126,6 +135,7 @@
             "answer": "a"
         },
         {
+            "question-number":10,
             "passage-ref": 1,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -154,6 +164,7 @@
         ],
         "questions": [
         {
+            "question-number":11,
             "passage-ref": 2,
             "question-type": "",
             "question": "The main purpose of the passage is to",
@@ -166,6 +177,7 @@
             "answer": "a"
         },
         {
+            "question-number":12,
             "passage-ref": 2,
             "question-type": "",
             "question": "In the passage, the author anticipates which of the following objections to criticizing the ethics of free markets?",
@@ -178,6 +190,7 @@
             "answer": "a"
         },
         {
+            "question-number":13,
             "passage-ref": 2,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -190,6 +203,7 @@
             "answer": "a"
         },
         {
+            "question-number":14,
             "passage-ref": 2,
             "question-type": "",
             "question": "As used in line 6, “embraced” most nearly means",
@@ -202,6 +216,7 @@
             "answer": "a"
         },
         {
+            "question-number":15,
             "passage-ref": 2,
             "question-type": "",
             "question": "The main purpose of the fifth paragraph (lines 45-56) is to",
@@ -214,6 +229,7 @@
             "answer": "a"
         },
         {
+            "question-number":16,
             "passage-ref": 2,
             "question-type": "",
             "question": "As used in line 58, “clashes” most nearly means",
@@ -226,6 +242,7 @@
             "answer": "a"
         },
         {
+            "question-number":17,
             "passage-ref": 2,
             "question-type": "",
             "question": "Which choice best supports the author’s claim that there is common ground shared by the different approaches to ethics described in the passage?",
@@ -238,6 +255,7 @@
             "answer": "a"
         },
         {
+            "question-number":18,
             "passage-ref": 2,
             "question-type": "",
             "question": "The main idea of the final paragraph is that",
@@ -250,6 +268,7 @@
             "answer": "a"
         },
         {
+            "question-number":19,
             "passage-ref": 2,
             "question-type": "",
             "question": "Data in the graph about per-pound coffee profits in Tanzania most strongly support which of the following statements?",
@@ -262,6 +281,7 @@
             "answer": "a"
         },
         {
+            "question-number":20,
             "passage-ref": 2,
             "question-type": "",
             "question": "Data in the graph indicate that the greatest difference between per-pound profits from fair trade coffee and those from regular coffee occurred during which period?",
@@ -274,6 +294,7 @@
             "answer": "a"
         },
         {
+            "question-number":21,
             "passage-ref": 2,
             "question-type": "",
             "question": "Data in the graph provide most direct support for which idea in the passage?",
@@ -303,6 +324,7 @@
         ],
         "questions": [
         {
+            "question-number":22,
             "passage-ref": 3,
             "question-type": "",
             "question": "The author of Passage 1 indicates which of the following about the use of screen-based technologies?",
@@ -315,6 +337,7 @@
             "answer": "a"
         },
         {
+            "question-number":23,
             "passage-ref": 3,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -327,6 +350,7 @@
             "answer": "a"
         },
         {
+            "question-number":24,
             "passage-ref": 3,
             "question-type": "",
             "question": "The author of Passage 1 indicates that becoming adept at using the Internet can",
@@ -339,6 +363,7 @@
             "answer": "a"
         },
         {
+            "question-number":25,
             "passage-ref": 3,
             "question-type": "",
             "question": "As used in line 40, “plastic” most nearly means",
@@ -351,6 +376,7 @@
             "answer": "a"
         },
         {
+            "question-number":26,
             "passage-ref": 3,
             "question-type": "",
             "question": "The author of Passage 2 refers to the novel War and Peace primarily to suggest that Woody Allen",
@@ -363,6 +389,7 @@
             "answer": "a"
         },
         {
+            "question-number":27,
             "passage-ref": 3,
             "question-type": "",
             "question": "According to the author of Passage 2, what do novelists and scientists have in common?",
@@ -375,6 +402,7 @@
             "answer": "a"
         },
         {
+            "question-number":28,
             "passage-ref": 3,
             "question-type": "",
             "question": "The analogy in the final sentence of Passage 2 has primarily which effect?",
@@ -387,6 +415,7 @@
             "answer": "a"
         },
         {
+            "question-number":29,
             "passage-ref": 3,
             "question-type": "",
             "question": "The main purpose of each passage is to",
@@ -399,6 +428,7 @@
             "answer": "a"
         },
         {
+            "question-number":30,
             "passage-ref": 3,
             "question-type": "",
             "question": "Which choice best describes the relationship between the two passages?",
@@ -411,6 +441,7 @@
             "answer": "a"
         },
         {
+            "question-number":31,
             "passage-ref": 3,
             "question-type": "",
             "question": "On which of the following points would the authors of both passages most likely agree?",
@@ -423,6 +454,7 @@
             "answer": "a"
         },
         {
+            "question-number":32,
             "passage-ref": 3,
             "question-type": "",
             "question": "Which choice provides the best evidence that the author of Passage 2 would agree to some extent with the claim attributed to Michael Merzenich in lines 41-43, Passage 1?",
@@ -448,6 +480,7 @@
         ],
         "questions": [
         {
+            "question-number":33,
             "passage-ref": 4,
             "question-type": "",
             "question": "The central problem that Stanton describes in the passage is that women have been",
@@ -460,6 +493,7 @@
             "answer": "a"
         },
         {
+            "question-number":34,
             "passage-ref": 4,
             "question-type": "",
             "question": "Stanton uses the phrase “high carnival” (line 15) mainly to emphasize what she sees as the",
@@ -472,6 +506,7 @@
             "answer": "a"
         },
         {
+            "question-number":35,
             "passage-ref": 4,
             "question-type": "",
             "question": "Stanton claims that which of the following was a relatively recent historical development?",
@@ -484,6 +519,7 @@
             "answer": "a"
         },
         {
+            "question-number":36,
             "passage-ref": 4,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -496,6 +532,7 @@
             "answer": "a"
         },
         {
+            "question-number":37,
             "passage-ref": 4,
             "question-type": "",
             "question": "As used in line 24, “rule” most nearly refers to",
@@ -508,6 +545,7 @@
             "answer": "a"
         },
         {
+            "question-number":38,
             "passage-ref": 4,
             "question-type": "",
             "question": "It can reasonably be inferred that “the strong-minded” (line 32) was a term generally intended to",
@@ -520,6 +558,7 @@
             "answer": "a"
         },
         {
+            "question-number":39,
             "passage-ref": 4,
             "question-type": "",
             "question": "As used in line 36, “best” most nearly means",
@@ -532,6 +571,7 @@
             "answer": "a"
         },
         {
+            "question-number":40,
             "passage-ref": 4,
             "question-type": "",
             "question": "Stanton contends that the situation she describes in the passage has become so dire that even men have begun to",
@@ -544,6 +584,7 @@
             "answer": "a"
         },
         {
+            "question-number":41,
             "passage-ref": 4,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -556,6 +597,7 @@
             "answer": "a"
         },
         {
+            "question-number":42,
             "passage-ref": 4,
             "question-type": "",
             "question": "The sixth paragraph (lines 67-78) is primarily concerned with establishing a contrast between",
@@ -583,6 +625,7 @@
         ],
         "questions": [
         {
+            "question-number":43,
             "passage-ref": 5,
             "question-type": "",
             "question": "The first paragraph serves mainly to",
@@ -595,6 +638,7 @@
             "answer": "a"
         },
         {
+            "question-number":44,
             "passage-ref": 5,
             "question-type": "",
             "question": "As used in line 19, “capture” is closest in meaning to",
@@ -607,6 +651,7 @@
             "answer": "a"
         },
         {
+            "question-number":45,
             "passage-ref": 5,
             "question-type": "",
             "question": "According to Peacock, the ability to monitor internal waves is significant primarily because",
@@ -619,6 +664,7 @@
             "answer": "a"
         },
         {
+            "question-number":46,
             "passage-ref": 5,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -631,6 +677,7 @@
             "answer": "a"
         },
         {
+            "question-number":47,
             "passage-ref": 5,
             "question-type": "",
             "question": "As used in line 65, “devise” most nearly means",
@@ -643,6 +690,7 @@
             "answer": "a"
         },
         {
+            "question-number":48,
             "passage-ref": 5,
             "question-type": "",
             "question": "Based on information in the passage, it can reasonably be inferred that all internal waves",
@@ -655,6 +703,7 @@
             "answer": "a"
         },
         {
+            "question-number":49,
             "passage-ref": 5,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
@@ -667,6 +716,7 @@
             "answer": "a"
         },
         {
+            "question-number":50,
             "passage-ref": 5,
             "question-type": "",
             "question": "In the graph, which isotherm displays an increase in depth below the surface during the period 19:12 to 20:24?",
@@ -679,6 +729,7 @@
             "answer": "a"
         },
         {
+            "question-number":51,
             "passage-ref": 5,
             "question-type": "",
             "question": "Which concept is supported by the passage and by the information in the graph?",
@@ -691,6 +742,7 @@
             "answer": "a"
         },
         {
+            "question-number":52,
             "passage-ref": 5,
             "question-type": "",
             "question": "How does the graph support the author’s point that internal waves affect ocean water dynamics?",
