@@ -1,6 +1,13 @@
 var process = function(req){
     // constants
-    var answers = [];
+    var answers = ['c','b','a','a','c','d','a','c','b','c','c','b','d','a','d'];
+    var freeResponseAnswers = [
+        [3,6,9],
+        [19],
+        [12],
+        [6],
+        [1/4, .25]
+    ];
     
     // user submissions
     var user = req.user; 
