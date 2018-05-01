@@ -1,31 +1,20 @@
-// set up mail object to send emails
-var nodemailer = require('nodemailer');
-
-var transporter = nodemailer.createTransport({
-  service: 'gmail',
-  auth: {
-    user: 'miista.meeseeks@gmail.com',
-    pass: 'craftingscholars'
-  }
-});
-
 var process = function(req){
-
     // constants
-    var answers = ['a','b','c','a','d','b','d','d','b','d','d','a','b','c','a','c','c','a','b','c','c','a','b','c','b','d','d','d','b','c','b','b','a','d','b','b','d','c','a','b','d','c','b','d','c','a','b','d','d','d','a'];
+    var answers = ['c','b','a','a','c','d','a','c','b','c','c','b','d','a','d'];
+    var freeResponseAnswers = [
+        [3,6,9],
+        [19],
+        [12],
+        [6],
+        [1/4, .25]
+    ];
+    
+    // user submissions
     var correctAnswers = [];
     var incorrectAnswers = [];
     // user submissions
     var user = req.user; 
     var userAnswers = req.body;
-
-    console.log('The user of the submitted code is: ');
-    console.log(user.local.email);
-    console.log('----------------------------------------------------------');
-    console.log('The answers the user has submitted are: ');
-    console.log(userAnswers);
-    console.log('----------------------------------------------------------');
-    console.log('User answers in each loop');
     
     var prettyAnswer = '';
     for(var question in userAnswers){
@@ -49,7 +38,7 @@ var process = function(req){
         if(answers[(question - 1)] == prettyAnswer){
             correctAnswers.push(question);
         }else{
-            incorrectAnswers.push((question + ' : ' + prettyAnswer));
+            incorrectAnswers.push((question + '.) ' + prettyAnswer));
         }
     }
 
@@ -57,23 +46,20 @@ var process = function(req){
     var emailBody = '<html><p><strong>USER:</strong> ' + user.local.email + ' has completed the reading section of Crafting Scholars online Baseline exam.</p></br>';
     emailBody += '<p><strong>Correct Answers:</strong>';
 
+    // add the questions the student got correct
     for(var i = 0; i < correctAnswers.length; i++){
         emailBody += (correctAnswers[i] + ', ');
     };
 
     emailBody += '</p>';
-    emailBody += '<p><strong>Incorrect Answers:</strong>';
+    emailBody += '<p><strong>Incorrect Answers:</strong> ';
 
+    // add the questions the student got incorrect 
     for(var i = 0; i < incorrectAnswers.length; i++){
         emailBody += (incorrectAnswers[i] + ', ');
     }
 
-    emailBody += '</p></html>',
-
-    console.log('Correct answers: ');
-    console.log(correctAnswers);
-    console.log('Incorrect answers: ');
-    console.log(incorrectAnswers);
+    emailBody += '</p></html>';
 
     
     // set mail subject 
@@ -92,7 +78,6 @@ var process = function(req){
           console.log('Email sent: ' + info.response);
         }
       });
-      
-};
+}
 
 exports.process = process;

@@ -1,4 +1,4 @@
-$('document').ready(function() {
+$('document').ready(function () {
     // global variables used for reporting
     var testTime;
     var checkedInputs = [];
@@ -7,33 +7,30 @@ $('document').ready(function() {
     // global variables used for testing functionality
     var counter;
     var timerId = null;
-    
-    // on click, start exam
-    $('#start-button').on('click', function() {
-        var selection = $('#section-selection').val();
-        $('#sat-selection-section').remove();
-        loadQuiz(selection);
-    });
-
-    // done button, create report 
-    $('#footer').on('click', '#done', function(){
-        console.log('done button has fired');
-        runReport();
-    });
 
     // strike through answer choice
-    (function strikeThroughAnswer(){
-        $(document).on('click', '.mark-wrong', function() {
+    (function strikeThroughAnswer() {
+        $(document).on('click', '.mark-wrong', function () {
             $(this).siblings().toggleClass('mark-answer-wrong');
         });
-      })();
+    })();
+
+    // style each passage block properly
+    (function(){
+        $('.passage-container').each(function(){
+            var $this = $(this);
+            var passageHeight = $this.height();
+            $this.next().height(passageHeight);
+        })
+    })();
+
 
     //***************************** function delcarations *************************
 
     // functions for the timer______________________________________________________
 
     function countdown() {
-        timerId = setInterval(function() {
+        timerId = setInterval(function () {
             counter--;
             if (counter < 0) {
                 runReport();
@@ -59,7 +56,7 @@ $('document').ready(function() {
 
     function loadQuiz(quizName) {
         console.log('start of loadQuiz with : ' + quizName);
-        $.getJSON(('./data/' + quizName + '.json'), function(data) {
+        $.getJSON(('./data/' + quizName + '.json'), function (data) {
             console.log(data);
             var quiz = data;
             // load the directions
@@ -94,7 +91,7 @@ $('document').ready(function() {
 
             // load done button
             $("#footer").html("<button id=\"done\">DONE</button>");
-            
+
 
             // start timer
             $("#timer").text(convertSeconds(counter));
@@ -104,7 +101,7 @@ $('document').ready(function() {
             monitorQuestions();
 
         });
-    console.log('end of loadQuiz with : ' + quizName);
+        console.log('end of loadQuiz with : ' + quizName);
     };
 
     // markup functions for each quiz_______________________________________________________
@@ -114,11 +111,11 @@ $('document').ready(function() {
         for (var i = 0; i < quiz.content.length; i++) {
 
             // create container div for a single passage
-            var $passageContainer = $('<div class="row passage-container" id="passage-container'+(i+1)+'">');
-            var $questionContainer = $('<div class="col-md-4 passage-questions" id="questions-for-passage'+(i+1)+'">');
-            
+            var $passageContainer = $('<div class="row passage-container" id="passage-container' + (i + 1) + '">');
+            var $questionContainer = $('<div class="col-md-4 passage-questions" id="questions-for-passage' + (i + 1) + '">');
+
             // create containers for passage and the passage questions
-            var $passage = $('<div class="col-md-8 passage" id="passage'+(i+1)+'">');
+            var $passage = $('<div class="col-md-8 passage" id="passage' + (i + 1) + '">');
             var $question = $('<div class="question">');
 
             for (var j = 0; j < quiz.content[i].passage.length; j++) {
@@ -137,15 +134,15 @@ $('document').ready(function() {
             $('#content').append($passageContainer);
 
             // style each passage block properly
-            var left = $('#passage'+(i+1)).height();
-            $('#passage-container'+(i+1)).height(left);
-            $('#questions-for-passage'+(i+1)).height(left);
+            var left = $('#passage' + (i + 1)).height();
+            $('#passage-container' + (i + 1)).height(left);
+            $('#questions-for-passage' + (i + 1)).height(left);
         }
 
-        (function strikeThroughAnswer(){
-          $(document).on('click', '.mark-wrong', function() {
-              $(this).siblings().toggleClass('mark-answer-wrong');
-          });
+        (function strikeThroughAnswer() {
+            $(document).on('click', '.mark-wrong', function () {
+                $(this).siblings().toggleClass('mark-answer-wrong');
+            });
         })();
     };
 
@@ -166,7 +163,7 @@ $('document').ready(function() {
         // }
         // load content
         for (var i = 0; i < quiz.content[0].questions.length; i++) {
-          $('#content').append(renderMultipleChoiceQuestion(quiz.content[0].questions[i], i));
+            $('#content').append(renderMultipleChoiceQuestion(quiz.content[0].questions[i], i));
         }
 
     };
@@ -175,7 +172,7 @@ $('document').ready(function() {
 
         // load content
         for (var i = 0; i < quiz.content.length; i++) {
-          $('#content').append(renderMultipleChoiceQuestion(quiz.content[0].questions[i], i));
+            $('#content').append(renderMultipleChoiceQuestion(quiz.content[0].questions[i], i));
         }
 
     };
@@ -205,7 +202,7 @@ $('document').ready(function() {
                     value = 'd';
                     break;
                 default:
-                    // do nothing
+                // do nothing
             }
             // append the answer choice.
             if (answerChoice.indexOf('Lines') >= 0) {
@@ -257,7 +254,7 @@ $('document').ready(function() {
         //  console.log('input click');
         //  checkedInputs.push(this.name);
         // });
-        $("input").on("click", function() {
+        $("input").on("click", function () {
             console.log('input');
             checkedInputs.push(this.name);
         });
@@ -270,7 +267,7 @@ $('document').ready(function() {
 
     function calculateCheckedInputs() {
         var counts = {};
-        checkedInputs.forEach(function(x) {
+        checkedInputs.forEach(function (x) {
             counts[x] = (counts[x] || 0) + 1;
         });
         console.log(counts);
