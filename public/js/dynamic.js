@@ -16,12 +16,20 @@ $('document').ready(function () {
     })();
 
     // style each passage block properly
-    (function(){
-        $('.passage-container').each(function(){
+    (function () {
+        $('.passage-container').each(function () {
             var $this = $(this);
             var passageHeight = $this.height();
             $this.next().height(passageHeight);
         })
+    })();
+
+    // monitor questions
+    (function () {
+        $("input").on("click", function () {
+            console.log('input' + this.name);
+            checkedInputs.push(this.name);
+        });
     })();
 
 

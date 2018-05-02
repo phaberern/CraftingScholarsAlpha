@@ -17,9 +17,13 @@
                 <div class="col-md-4 text-left passage-questions">
                     {{#each this.questions}}
                         <div class="question">
-                            <p class="question-question">{{this.question-number}}. {{this.question}}</p>
+                            <p class="question-question">{{this.question-number}}.) {{this.question}}</p>
                             {{#each this.choices}}
-                            <div class="multiple-choice-answer"><input type="radio" name={{../question-number}} value="{{@index}}"><span class="answer-choice-text">{{this}}</span><sup class="mark-wrong">X</sup></div>
+                                {{#if ../line-ref}}
+                                <div class="multiple-choice-answer"><input type="radio" name={{../question-number}} value="{{@index}}"><span class="line-reference">&#9432;</span><span class="answer-choice-text">{{this}}</span><sup class="mark-wrong">X</sup></div>    
+                                {{else}}
+                                <div class="multiple-choice-answer"><input type="radio" name={{../question-number}} value="{{@index}}"><span class="answer-choice-text">{{this}}</span><sup class="mark-wrong">X</sup></div>
+                                {{/if}}
                             {{/each}}
                         </div>
                     {{/each}}                                        

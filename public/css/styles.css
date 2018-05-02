@@ -3,6 +3,10 @@
     height: auto;
 }
 
+.nav-link{
+    margin-right: 30px;
+}
+
 #math-reference-chart {
     width: 600px;
     height: auto;
@@ -74,4 +78,7 @@
 }
 body{
     font-family: 'Fenix', serif;
+}
+input[type=radio]{
+    margin-right: 5px;
 }

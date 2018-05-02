@@ -16,10 +16,10 @@
             <form action="/{{quiz.name}}" method="POST">          
                 {{#each quiz.content.questions}}
                         <div class="question" data-question-type="{{this.question-type}}">
-                            <p class="question-question">{{this.question-number}}. {{{this.question}}}</p>
                             {{#if this.img}}
                                 <img src="./img/math/{{this.img}}" alt="N/A" class="math-question-img">
                             {{/if}}
+                            <p class="question-question">{{this.question-number}}.) {{{this.question}}}</p>                            
                             {{#each this.choices}}
                                 <div class="multiple-choice answer"><input type="radio" name="q{{@../index}}" value="{{@index}}">{{{this}}}</div>
                             {{/each}}

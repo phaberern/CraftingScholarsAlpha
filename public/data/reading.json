@@ -98,6 +98,7 @@
         {
             "question-number":7,
             "passage-ref": 1,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
@@ -137,6 +138,7 @@
         {
             "question-number":10,
             "passage-ref": 1,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
@@ -192,6 +194,7 @@
         {
             "question-number":13,
             "passage-ref": 2,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
@@ -244,6 +247,7 @@
         {
             "question-number":17,
             "passage-ref": 2,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice best supports the author’s claim that there is common ground shared by the different approaches to ethics described in the passage?",
             "choices": [
@@ -339,6 +343,7 @@
         {
             "question-number":23,
             "passage-ref": 3,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
@@ -436,7 +441,7 @@
                 "A.) Passage 2 relates first-hand experiences that contrast with the clinical approach in Passage 1.",
                 "B.) Passage 2 critiques the conclusions drawn from the research discussed in Passage 1.",
                 "C.) Passage 2 takes a high-level view of a result that Passage 1 examines in depth.",
-                "D.)  Passage 2 predicts the negative reactions that the findings discussed in Passage 1 might produce."
+                "D.) Passage 2 predicts the negative reactions that the findings discussed in Passage 1 might produce."
             ],
             "answer": "a"
         },
@@ -456,6 +461,7 @@
         {
             "question-number":32,
             "passage-ref": 3,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence that the author of Passage 2 would agree to some extent with the claim attributed to Michael Merzenich in lines 41-43, Passage 1?",
             "choices": [
@@ -521,6 +527,7 @@
         {
             "question-number":36,
             "passage-ref": 4,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
@@ -550,7 +557,7 @@
             "question-type": "",
             "question": "It can reasonably be inferred that “the strong-minded” (line 32) was a term generally intended to",
             "choices": [
-                "A.)  praise women who fight for their long-denied rights.",
+                "A.) praise women who fight for their long-denied rights.",
                 "B.) identify women who demonstrate intellectual skill.",
                 "C.) criticize women who enter male-dominated professions.",
                 "D.) condemn women who agitate for the vote for their sex."
@@ -586,6 +593,7 @@
         {
             "question-number":41,
             "passage-ref": 4,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
@@ -659,13 +667,14 @@
                 "A.) it will allow scientists to verify the maximum height of such waves.",
                 "B.) it will allow researchers to shift their focus to improving the quality of satellite images.",
                 "C.) the study of wave patterns will enable regions to predict and prevent coastal damage.",
-                "D.)  the study of such waves will inform the development of key scientific models."
+                "D.) the study of such waves will inform the development of key scientific models."
             ],
             "answer": "a"
         },
         {
             "question-number":46,
             "passage-ref": 5,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
@@ -705,6 +714,7 @@
         {
             "question-number":49,
             "passage-ref": 5,
+            "line-ref": true,
             "question-type": "",
             "question": "Which choice provides the best evidence for the answer to the previous question?",
             "choices": [
