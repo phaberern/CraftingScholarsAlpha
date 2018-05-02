@@ -43,7 +43,7 @@ var process = function(req){
     }
 
     // build the email body with the correct and incorrect answers
-    var emailBody = '<html><p><strong>USER:</strong> ' + user.local.email + ' has completed the reading section of Crafting Scholars online Baseline exam.</p></br>';
+    var emailBody = '<html><p><strong>USER:</strong> ' + user.local.email + ' has completed the Math (no calculator) section of Crafting Scholars online Baseline exam.</p></br>';
     emailBody += '<p><strong>Correct Answers:</strong>';
 
     // add the questions the student got correct

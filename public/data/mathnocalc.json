@@ -60,7 +60,7 @@
             "question-number":4,
             "question-type": "multiple choice",
             "img": "",
-            "question": "9<em>a</enm><sup>4</sup> + 12<em>a</em><sup>2</sup><em>b</em><sup>2</sup> + 4<em>b</em><sup>4</sup><br>Which of the following is equivalent to the expression shown above?",
+            "question": "9<em>a</em><sup>4</sup> + 12<em>a</em><sup>2</sup><em>b</em><sup>2</sup> + 4<em>b</em><sup>4</sup><br>Which of the following is equivalent to the expression shown above?",
             "choices": [
                 "A.) (3<em>a</em><sup>2</sup> + 2<em>b</em><sup>2</sup>)<sup>2</sup>",
                 "B.) (3<em>a</em> + 2<em>b</em>)<sup>4</sup>",
@@ -164,7 +164,7 @@
             "question-number":12,
             "question-type": "multiple choice",
             "img": "",
-            "question": "<em>R</em> = <sup></sup>&frals;<sub></sub><br>A website uses the formula above to calculate a seller’s rating, <em>R</em>, based on the number of favorable reviews, <em>F</em>, and unfavorable reviews, <em>N</em>. Which of the following expresses the number of favorable reviews in terms of the other variables?",
+            "question": "<em>R</em> = <sup><em>F</em></sup>&frals;<sub><em>N + F</em></sub><br>A website uses the formula above to calculate a seller’s rating, <em>R</em>, based on the number of favorable reviews, <em>F</em>, and unfavorable reviews, <em>N</em>. Which of the following expresses the number of favorable reviews in terms of the other variables?",
             "choices": [
                 "A.) <em>F</em> = <sup><em>F</em></sup>&frals;<sub><em>N + F</em></sub>",
                 "B.) <em>F</em> = <sup><em>RN</em></sup>&frals;<sub><em>R - 1</em></sub>",
