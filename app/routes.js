@@ -1,7 +1,7 @@
 // data for our templates to render 
 var reading = require('../public/data/reading.json');
 var writing = require('../public/data/writing.json');
-var mathcalc = require('../public/data/mathcalc.json');
+var mathcalc = require('../public/data/mathCalc.json');
 var mathnocalc = require('../public/data/mathnocalc.json');
 // require scorring engines for each section
 var mathcalcQuiz = require('./scorring/mathcalcQuiz');
