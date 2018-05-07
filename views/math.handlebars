@@ -25,13 +25,10 @@
                             {{/each}}
                         </div>
                 {{/each}} 
+                <input type="hidden" name="timer" value="{{quiz.time_allowed}}" id="timer">
                 <input type="submit" value="Submit">
-            </form>       
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">
-            <div id="timer"></div>
+            </form> 
+            <div id="timer-view"></div>
         </div>
     </div>
 </div>

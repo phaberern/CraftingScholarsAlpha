@@ -48,7 +48,7 @@
     padding-right: 4px;
 }
 
-#timer {
+#timer-view {
     position: fixed;
     color: #21B6B3;
     bottom: 0;

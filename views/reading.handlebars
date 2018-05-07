@@ -31,8 +31,9 @@
         </div>
         {{/each}}
             {{!-- TODO - add javascript that will create a timer and update the input to send this to the server on submit --}}
-            {{!-- <input type="hidden" name="timer" value="{{quiz.time_allowed}}"> --}}
+            <input type="hidden" name="timer" value="{{quiz.time_allowed}}" id="timer">
             <input type="submit" value="Submit">
         </form>
+        <div id="timer-view"></div>
     </div>
 </div>

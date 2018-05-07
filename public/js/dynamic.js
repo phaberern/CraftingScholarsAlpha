@@ -32,20 +32,34 @@ $('document').ready(function () {
         });
     })();
 
+    // set up the timer and start 
+    // set timer
+    testTime = $('#timer').val();
+    counter = testTime;
+    timerId = null;
+
+    // start timer
+    $("#timer-view").text(convertSeconds(counter));
+    countdown();
+
+    
+
 
     //***************************** function delcarations *************************
 
     // functions for the timer______________________________________________________
 
     function countdown() {
+        console.log('we got inside the countdown fuction');
         timerId = setInterval(function () {
             counter--;
             if (counter < 0) {
-                runReport();
+                // runReport();
                 clearInterval(timerId);
                 alert('Time is up!');
             }
-            $('#timer').text(convertSeconds(counter));
+            $('#timer-view').text(convertSeconds(counter));
+            $('#timer').val(counter);
         }, 1000);
     };
 
@@ -58,6 +72,11 @@ $('document').ready(function () {
 
     function prettifyRemainingTime(string, pad, length) {
         return (new Array(length + 1).join(pad) + string).slice(-length);
+    };
+
+    function calculateTestTime() {
+        var timeUsed = convertSeconds(testTime - counter);
+        return timeUsed;
     };
 
     // functions for quiz load_______________________________________________________
