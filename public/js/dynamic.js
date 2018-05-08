@@ -76,7 +76,7 @@ $('document').ready(function () {
 
     function calculateTestTime() {
         var timeUsed = convertSeconds(testTime - counter);
-        return timeUsed;
+        console.log("Student took " + timeUsed + " to complete this section");
     };
 
     // functions for quiz load_______________________________________________________
