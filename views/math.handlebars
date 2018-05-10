@@ -19,10 +19,72 @@
                             {{#if this.img}}
                                 <img src="./img/math/{{this.img}}" alt="N/A" class="math-question-img">
                             {{/if}}
-                            <p class="question-question">{{this.question-number}}.) {{{this.question}}}</p>                            
+                            <p class="question-question">{{this.question-number}}.) {{{this.question}}}</p>
+                            {{#if this.free-response}}
+                                <div class="free-response-answer">
+                                    <select name="q{{@index}}">
+                                        <option disable selected value> </option>
+                                        <option value=".">.</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                    </select>
+                                    <select name="q{{@index}}">
+                                        <option disable selected value> </option>
+                                        <option value="/">/</option>
+                                        <option value=".">.</option>
+                                        <option value="0">0</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                    </select>
+                                    <select name="q{{@index}}">
+                                        <option disable selected value> </option>
+                                        <option value="/">/</option>
+                                        <option value=".">.</option>
+                                        <option value="0">0</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                    </select>
+                                    <select name="q{{@index}}">
+                                        <option disable selected value> </option>
+                                        <option value=".">.</option>
+                                        <option value="0">0</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                    </select>
+                                </div>
+                            {{else}}                            
                             {{#each this.choices}}
-                                <div class="multiple-choice answer"><input type="radio" name="q{{@../index}}" value="{{@index}}">{{{this}}}</div>
+                                <div class="multiple-choice-answer"><input type="radio" name="q{{@../index}}" value="{{@index}}">{{{this}}}</div>
                             {{/each}}
+                            {{/if}}
                         </div>
                 {{/each}} 
                 <input type="hidden" name="timer" value="{{quiz.time_allowed}}" id="timer">

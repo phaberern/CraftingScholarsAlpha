@@ -164,12 +164,12 @@
             "question-number":12,
             "question-type": "multiple choice",
             "img": "",
-            "question": "<em>R</em> = <sup><em>F</em></sup>&frals;<sub><em>N + F</em></sub><br>A website uses the formula above to calculate a seller’s rating, <em>R</em>, based on the number of favorable reviews, <em>F</em>, and unfavorable reviews, <em>N</em>. Which of the following expresses the number of favorable reviews in terms of the other variables?",
+            "question": "<em>R</em> = <sup><em>F</em></sup>&frasl;<sub><em>N + F</em></sub><br>A website uses the formula above to calculate a seller’s rating, <em>R</em>, based on the number of favorable reviews, <em>F</em>, and unfavorable reviews, <em>N</em>. Which of the following expresses the number of favorable reviews in terms of the other variables?",
             "choices": [
-                "A.) <em>F</em> = <sup><em>F</em></sup>&frals;<sub><em>N + F</em></sub>",
-                "B.) <em>F</em> = <sup><em>RN</em></sup>&frals;<sub><em>R - 1</em></sub>",
-                "C.) <em>F</em> = <sup><em>N</em></sup>&frals;<sub><em></em>1 - R</sub>",
-                "D.) <em>F</em> = <sup><em><N/em></sup>&frals;<sub><em>R - 1</em></sub>"
+                "A.) <em>F</em> = <sup><em>F</em></sup>&frasl;<sub><em>N + F</em></sub>",
+                "B.) <em>F</em> = <sup><em>RN</em></sup>&frasl;<sub><em>R - 1</em></sub>",
+                "C.) <em>F</em> = <sup><em>N</em></sup>&frasl;<sub><em></em>1 - R</sub>",
+                "D.) <em>F</em> = <sup><em>N</em></sup>&frasl;<sub><em>R - 1</em></sub>"
             ],
             "answer": ""
         },
@@ -214,67 +214,42 @@
         },
         {
             "question-number":16,
+            "free-response": true,
             "question-type": "free response",
             "img": "",
             "question": "The sales manager of a company awarded a total of $3000 in bonuses to the most productive salespeople. The bonuses were awarded in amounts of $250 or $750. If at least one $250 bonus and at least one $750 bonus were awarded, what is one possible number of $250 bonuses awarded?",
-            "choices": [
-                "A.)",
-                "B.)",
-                "C.)",
-                "D.)"
-            ],
             "answer": ""
         },
         {
             "question-number":17,
+            "free-response": true,
             "question-type": "free response",
             "img": "",
             "question": "2<em>x</em>(3<em>x</em> + 5) + 3(3<em>x</em> + 5) = <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em><br>In the equation above, <em>a</em>, <em>b</em>, and <em>c</em> are constants. If the equation is true for all values of <em>x</em>, what is the value of <em>b</em> ?",
-            "choices": [
-                "A.)",
-                "B.)",
-                "C.)",
-                "D.)"
-            ],
             "answer": ""
         },
         {
             "question-number":18,
+            "free-response": true,
             "question-type": "free response",
             "img": "mathNoCalcQ18.png",
             "question": "In the quesiton above, <em>&AEmacr;</em> || <em>&CDmacr;</em> and segment <em>AD</em> intersects segment <em>CE</em> at <em>B</em>. What is the length of segment <em>CE</em>?",
-            "choices": [
-                "A.)",
-                "B.)",
-                "C.)",
-                "D.)"
-            ],
             "answer": ""
         },
         {
             "question-number":19,
+            "free-response": true,
             "question-type": "free response",
             "img": "mathNoCalcQ19.png",
             "question": "In the <em>xy</em> plane above, <em>O</em> is the center of the circle, and the measure of &ang;<em>AOB</em> is <sup>&piv;</sup>&frasl;<sub><em>a</em></sub>. What is the value of <em>a</em>?",
-            "choices": [
-                "A.)",
-                "B.)",
-                "C.)",
-                "D.)"
-            ],
             "answer": ""
         },
         {
             "question-number":20,
+            "free-response": true,
             "question-type": "free response",
             "img": "",
             "question": "<em>ax</em> + <em>by</em> = 12<br>2<em>x</em> + 8<em>y</em> = 60<br>In the system of equations above, <em>a</em> and <em>b</em> are constants. If the system has infinitely many solutions, what is the value of <sup><em>a</em><sup>&frasl;<sub><em>b</em></sub>?",
-            "choices": [
-                "A.)",
-                "B.)",
-                "C.)",
-                "D.)"
-            ],
             "answer": ""
         }]
     }
