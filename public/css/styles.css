@@ -17,6 +17,11 @@
     height: auto;
 }
 
+.reading-img{
+    width: 400px;
+    height: auto;
+}
+
 .passage-container {
     text-align: left;
     margin-bottom: 10px;
