@@ -81,6 +81,9 @@
     color: green;
     cursor: pointer;
 }
+.highlight-line{
+    background-color: chartreuse;
+}
 body{
     font-family: 'Fenix', serif;
 }

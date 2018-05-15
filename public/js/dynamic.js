@@ -15,6 +15,18 @@ $('document').ready(function () {
         });
     })();
 
+    // highlight lines based on question-line reference for ux
+    (function highlightLines(){
+        $('.line-reference').hover(function(){
+            // snag the question and answer to give us a value to search the spans for 
+            var answer = $(this).prev().attr('value');
+            var question = $(this).prev().attr('name');
+
+            $('#'+question+answer).toggleClass('highlight-line');
+            
+        });
+    })();
+
     // style each passage block properly
     (function () {
         $('.passage-container').each(function () {
